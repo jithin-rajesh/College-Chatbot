@@ -4,7 +4,7 @@ __pycache__/
 *.so
 
 # Virtual environments
-venv/
+.venv/
 
 # Jupyter Notebook checkpoints
 .ipynb_checkpoints/
@@ -14,3 +14,6 @@ venv/
 
 # Environment variables
 .env
+
+#Syllabus folder
+syllabusfiles/
