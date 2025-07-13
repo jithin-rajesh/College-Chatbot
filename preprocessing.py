@@ -169,7 +169,7 @@ def process_syllabus_pdf(pdf_path):
         return None
 
 if __name__ == "__main__":
-    pdf_file_path ='College-Chatbot/Curriculum-2022_CSEAI_B-Tech1st-n-2nd-year-and-3-yearsyllabus_030425 (1).pdf' 
+    pdf_file_path ='Curriculum-2022_CSEAI_B-Tech1st-n-2nd-year-and-3-yearsyllabus_030425 (1).pdf' 
     
     structured_syllabus = process_syllabus_pdf(pdf_file_path)
     

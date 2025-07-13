@@ -2,9 +2,972 @@
     "header_info": {
         "institution_vision_mission": "Vision: To be an Institution moulding globally competent professionals as epitomes of Noble Values. Mission: To transform the Youth as technically competent, ethically sound and socially committed professionals, by providing a vibrant learning ambience for the welfare of humanity.",
         "department_vision_mission": "Vision: To be a Centre of Excellence in Computer Science and Engineering providing quality education and research for the betterment of the society. Mission: To impart sound knowledge in theoretical and applied foundations of Computer Science and Engineering, and to train the students to solve real life issues to effectively define and shape life.",
-        "peos": "PEO1: Graduates will be successful professionals in Industries of core or interdisciplinary nature or entrepreneurs, demonstrating effective leadership and excellent team work. PEO2: Graduates will expand the horizon of knowledge through higher education or research, leading to self-directed professional development PEO3: Graduates will demonstrate competency in AI & ML, professional attitude and ethics while providing solutions in societal and environmental contexts",
-        "pos": "Engineering graduates will be able to: 1. Engineering knowledge: Apply the knowledge of mathematics, science, engineering fundamentals, and an engineering specialization to the solution of complex B.Tech in Computer Science and Engineering-AI 2023-24 engineering problems. 2. Problem analysis: Identify, formulate, review research literature, and analyze complex engineering problems reaching substantiated conclusions using first principles of mathematics, natural sciences, and engineering sciences. 3. Design/development of solutions: Design solutions for complex engineering problems and design system components or processes that meet the specified needs with appropriate consideration for the public health and safety, and the cultural, societal, and environmental considerations. 4. Conduct investigations of complex problems: Use research-based knowledge and research methods including design of experiments, analysis and interpretation of data, and synthesis of the information to provide valid conclusions. 5. Modern tool usage: Create, select, and apply appropriate techniques, resources, and modern engineering and IT tools including prediction and modelling to complex engineering activities with an understanding of the limitations. 6. The engineer and society: Apply reasoning informed by the contextual knowledge to assess societal, health, safety, legal and cultural issues and the consequent responsibilities relevant to the professional engineering practice. 7. Environment and sustainability: Understand the impact of the professional engineering solutions in societal and environmental contexts, and demonstrate the knowledge of, and need for sustainable development. 8. Ethics: Apply ethical principles and commit to professional ethics and responsibilities and norms of the engineering practice. 9. Individual and team work: Function effectively as an individual, and as a member or leader in diverse teams, and in multidisciplinary settings. 10. Communication: Communicate effectively on complex engineering activities with the engineering community and with society at large, such as, being able to comprehend and write effective reports and design documentation, make effective presentations, and give and receive clear instructions. 11. Project management and finance: Demonstrate knowledge and understanding of the engineering and management principles and apply these to one’s own work, as a member and leader in a team, to manage projects and in multidisciplinary environments. 12. Life-long learning: Recognize the need for, and have the preparation and ability to engage in independent and life-long learning in the broadest context of technological change.",
-        "psos": "PSO1: To apply Algorithmic Principles, Programming Skills and Software Engineering Principles to design, develop and evaluate Software Systems of varying complexities. PSO2: To apply knowledge of System Integration to design and implement computer- based systems PSO3: To solve real world and socially relevant problems using AI B.Tech in Computer Science and Engineering-AI 2023-24 B.Tech in Computer Science and Engineering-AI 2023-24 DEPARTMENT OF COMPUTER SCIENCE AND ENGINEERING For the students admitted from 2023"
+        "peos": "PEO1: Graduates will be successful professionals in Industries of core or interdisciplinary nature or entrepreneurs, demonstrating effective leadership and excellent team work. PEO2: Graduates will expand the horizon of knowledge through higher education or research, leading to self-directed professional development BTech in Computer Science and Engineering (AI) 2022-2023 PEO3: Graduates will demonstrate competency in AI & ML, professional attitude and ethics while providing solutions in societal and environmental contexts",
+        "pos": "Engineering graduates will be able to: 1. Engineering knowledge: Apply the knowledge of mathematics, science, engineering fundamentals, and an engineering specialization to the solution of complex engineering problems. 2. Problem analysis: Identify, formulate, review research literature, and analyze complex engineering problems reaching substantiated conclusions using first principles of mathematics, natural sciences, and engineering sciences. 3. Design/development of solutions: Design solutions for complex engineering problems and design system components or processes that meet the specified needs with appropriate consideration for the public health and safety, and the cultural, societal, and environmental considerations. 4. Conduct investigations of complex problems: Use research-based knowledge and research methods including design of experiments, analysis and interpretation of data, and synthesis of the information to provide valid conclusions. 5. Modern tool usage: Create, select, and apply appropriate techniques, resources, and modern engineering and IT tools including prediction and modelling to complex engineering activities with an understanding of the limitations. 6. The engineer and society: Apply reasoning informed by the contextual knowledge to assess societal, health, safety, legal and cultural issues and the consequent responsibilities relevant to the professional engineering practice. 7. Environment and sustainability: Understand the impact of the professional engineering solutions in societal and environmental contexts, and demonstrate the knowledge of, and need for sustainable development. 8. Ethics: Apply ethical principles and commit to professional ethics and responsibilities and norms of the engineering practice. 9. Individual and team work: Function effectively as an individual, and as a member or leader in diverse teams, and in multidisciplinary settings. 10. Communication: Communicate effectively on complex engineering activities with the engineering community and with society at large, such as, being able to comprehend and write effective reports and design documentation, make effective presentations, and give and receive clear instructions. 11. Project management and finance: Demonstrate knowledge and understanding of the engineering and management principles and apply these to one’s own work, as a member and leader in a team, to manage projects and in multidisciplinary environments. 12. Life-long learning: Recognize the need for, and have the preparation and ability to engage in independent and life-long learning in the broadest context of technological change.",
+        "psos": "PSO1: To apply Algorithmic Principles, Programming Skills and Software Engineering Principles to design, develop and evaluate Software Systems of varying complexities. PSO2: To apply knowledge of System Integration to design and implement computer-based BTech in Computer Science and Engineering (AI) 2022-2023 systems PSO3: To solve real world and socially relevant problems using AI and ML techniques BTech in Computer Science and Engineering (AI) 2022-2023 DEPARTMENT OF COMPUTER SCIENCE AND ENGINEERING B.Tech. Programme in Computer Science and Engineering (Artificial Intelligence) For the students admitted from 2022-23"
     },
-    "semesters": {}
+    "semesters": {
+        "SEMESTER I": {
+            "courses": [
+                {
+                    "MA0U10A": {
+                        "summary": {
+                            "Slot": "A",
+                            "Category Code": "BSC",
+                            "Course Number": "MA0U10A",
+                            "Courses": "Linear Algebra and Calculus",
+                            "L-T-P": "3-1-0",
+                            "Hours": "4",
+                            "Credit": "4"
+                        },
+                        "details": "Not Found"
+                    }
+                },
+                {
+                    "PH0U10C": {
+                        "summary": {
+                            "Slot": "B",
+                            "Category Code": "BSC",
+                            "Course Number": "PH0U10C",
+                            "Courses": "Engineering Physics-C",
+                            "L-T-P": "2-1-0",
+                            "Hours": "3",
+                            "Credit": "3"
+                        },
+                        "details": {
+                            "course_name": "Name Not Found in Header",
+                            "overview": "This course introduces students to some basic mathematical ideas and tools which are at the core of any engineering course. A brief course in Linear Algebra familiarizes students with some basic techniques in matrix theory which are essential for analyzing linear systems. The calculus of functions of one or more variables taught in this course are useful in modelling and analyzing physical phenomena involving continuous change of variables or parameters and have applications across all branches of engineering.",
+                            "outcomes": "After the completion of the course, the student will be able to: CO 1 Solve systems of linear equations. Apply CO 2 Compute maxima and minima using partial derivatives. Apply CO 3 Compute areas and volumes of geometrical shapes using multiple Apply integrals. CO 4 Identify the convergence or divergence of an infinite series. Apply CO 5 Determine the Taylor and Fourier series expansion of functions Apply and learn their applications.",
+                            "syllabus": "Basics of Linear Algebra – Solution of systems of linear equations, row echelon form, rank, eigenvalues and eigenvectors, diagonalization of matrices, orthogonal transformation, quadratic forms. Partial Differentiation and Applications – Limit and continuity of functions of two or more variables, partial derivatives, chain rule, total derivatives, maxima and minima. Multiple Integrals – Double and triple integrals, double integrals over rectangular and non- rectangular regions, changing the order of integration, finding areas and volume, mass and center of gravity. Infinite series - Convergence and divergence of Infinite series, geometric series and p-series, test of convergence, Alternating series, absolute and conditional convergence Taylor series, Binomial series and series representation of exponential, trigonometric, logarithmic Functions-Fourier Series- Euler’s formulas, Fourier sine and cosine series, Half range expansions",
+                            "textbooks": "1) H. Anton, I. Biven, S. Davis, Calculus, Wiley, 10th Edition, 2015. BTech in Computer Science and Engineering(AI) 2) Erwin Kreyszig, Advanced Engineering Mathematics, John Wiley & Sons, 10thEdition, 2016.",
+                            "references": "1) J.Stewart, Essential Calculus,Cengage,2ndEdition,2017. 2) G.B.Thomas and R.L.Finney, Calculus and Analytic geometry, 9thEdition,Pearson,Reprint,2002. 3) Peter V. O'Neil, Advanced Engineering Mathematics, Cengage, 7th Edition 2012.",
+                            "course_plan": "Module Contents No. of hours Linear Algebra: Systems of linear equations, Solution by Gauss elimination, I 12 row echelon form and rank of a matrix, fundamental theorem for linear systems (homogeneous and non-homogeneous, without proof), Eigen values and Eigen vectors. Diagonalization of matrices, orthogonal transformation, quadratic forms and their canonical forms. Multivariable calculus-Differentiation: Concept of limit and continuity of II 12 functions of two variables, partial derivatives, Differentials, Local Linear approximations, chain rule, total derivative, Relative maxima and minima, Absolute maxima and minima on closed and bounded set. Multivariable Calculus-Integration: Double integrals (Cartesian), reversing the III 12 order of integration, change of coordinates (Cartesian to polar), finding areas and volume using double integrals, mass and centre of gravity of inhomogeneous laminas using double integral. Triple integrals, volume calculated as triple integral, triple integral in cylindrical and spherical coordinates (computations involving spheres, cylinders). Sequences and Series: Convergence of sequences and series, convergence of IV 12 geometric series and p-series(without proof), test of convergence (comparison, ratio and root tests without proof); Alternating series and Leibnitz test, absolute and conditional convergence. Series representation of functions: Taylor series (without proof, assuming the V 12 possibility of power series expansion in appropriate domains), Binomial series and series representation of exponential, trigonometric, logarithmic functions (without proofs of convergence); Fourier series, Euler formulas, Convergence of Fourier series (without proof), half range sine and cosine series, Perceval’s theorem (without proof). Total hours 60 BTech in Computer Science and Engineering(AI) Year of Course Code Course Name Category L T P Credit Introduction PH0U10C ENGINEERING PHYSICS-C BSC 2 1 0 3 2022"
+                        }
+                    }
+                },
+                {
+                    "ES0U10A": {
+                        "summary": {
+                            "Slot": "0 3 3 C",
+                            "Category Code": "ESC",
+                            "Course Number": "ES0U10A",
+                            "Courses": "Engineering Mechanics",
+                            "L-T-P": "2-1-0",
+                            "Hours": "3",
+                            "Credit": "3"
+                        },
+                        "details": {
+                            "course_name": "Name Not Found in Header",
+                            "overview": "The aim of the course is to develop scientific attitude in students and offer them an understanding of physical concepts behind various engineering applications. It creates an urge in students to think creatively in emerging areas of Physics.",
+                            "outcomes": "After the completion of the course, the student will be able to: CO 1 Describe the characteristics of different types of oscillations and waves Understand CO 2 Explain natural physical processes and related technological Understand advances using principles of optics CO 3 Generalize the principle of quantum mechanics to explain the Understand behavior of matter in the atomic and subatomic level CO 4 Relate the fundamental ideas of magnetism and vector calculus to Understand arrive at Maxell’s equations CO 5 Describe the fundamentals of superconductivity and fibre Understand optics for various engineering applications",
+                            "syllabus": "Oscillations and Waves: Oscillations - Introduction, Forced oscillations, One dimensional and three-dimensional wave equations, Transverse vibrations along a stretched string Wave Optics: Interference of light- Air wedge, Newton’s rings, Antireflection coating, Diffraction- Grating equation, Rayleigh’s criterion Quantum Mechanics & Nano technology: Wave function, Time dependent and time independent Schrodinger wave equations, One-dimensional potential well, Introduction to nanoscience and technology, Quantum confinement, Applications Magnetism & Electro Magnetic Theory: Magnetic field and Magnetic flux density, magnetic permeability and susceptibility, classification of magnetic materials, fundamentals of vector calculus, equation of continuity, Maxwell’s equations in vacuum. Superconductivity & Fibre Optics: Super conductivity- Meissner effect, Type I & II superconductors, applications of superconductors, Optical fibre -Principle, Numerical aperture, Types of fibres, Applications (a)",
+                            "textbooks": "1) M.N. Avadhanulu , P.G. Kshirsagar, T.V.S Arun Murthy, A Text book of Engineering Physics, S.Chand &Co., Revised Edition, 2014 2) H.K. Malik, A.K. Singh, Engineering Physics, McGraw Hill Education, 2nd Edition, 2017 (b)",
+                            "references": "BTech in Computer Science and Engineering(AI) 1) Arthur Beiser, Concepts of Modern Physics, Tata McGraw Hill Publications, 6thEdition, 2003. 2) Aruldhas G., Engineering Physics, Prentice Hall of India Pvt. Ltd., 2015 3) Ajoy Ghatak, Optics, Mc Graw Hill Education, 6th Edition, 2017 4) David J. Griffiths, Introduction to Electrodynamics, Addison-Wesley publishing, 4th Edition, 1999. 5) Premlet B., Advanced Engineering Physics, Phasor Books,10thEdition, 2017.",
+                            "course_plan": "No. of Module Contents hours Oscillations and Waves: Harmonic oscillations, forced oscillations- differential equation-derivation of expressions for amplitude and phase of forced oscillations, amplitude resonance-expression for resonant frequency, Quality factor and sharpness of resonance, electrical analogy of mechanical I oscillators 9 Wave motion- derivation of one-dimensional wave equation and its solution (no derivation), three-dimensional wave equation and its solution (no derivation), transverse vibration in a stretched string, statement of laws of vibration Wave Optics: Interference of light- theory of thin films - cosine law (no derivation), interference due to wedge shaped films -determination of thickness and test for optical planeness, Newton’s rings- measurement of wavelength and refractive index, antireflection coatings. II 9 Diffraction of light, Comparison of Fresnel and Fraunhofer classes of diffraction, diffraction grating-Grating equation, Rayleigh criterion for limit of resolution, resolving and dispersive power of a grating with expression (no derivation) Quantum Mechanics & Nanotechnology: Introduction for the need of Quantum mechanics, wave nature of Particles, uncertainty principle, Applications-absence of electrons inside a nucleus, formulation of time dependent and time- independent Schrodinger wave equations, Particle in a one dimensional box- derivation for normalised wave function and energy III eigen values, Quantum mechanical tunnelling (qualitative). Introduction to nanoscience and technology, surface to volume ratio for nanomaterials, quantum confinement in one dimension, two dimension and three dimension-nano sheets, nano wires and quantum dots, applications of 9 nanotechnology (qualitative ideas) Magnetism and Electromagnetic theory: Magnetic field and Magnetic flux density, Magnetic permeability and susceptibility, classification of magnetic materials-para, dia and ferromagnetic materials IV 9 Fundamentals of vector calculus, equation of continuity, derivation of Maxwell’s equations in vacuum, comparison of displacement current with conduction current Superconductivity: Superconducting phenomena, Meissner effect and perfect diamagnetism, types of Superconductors-Type I and Type II Optic fibre-principle of propagation of light, types of fibres-step index and V 9 graded index fibres, numerical aperture (derivation), fibre optic communication system (block diagram), industrial, medical and technological applications of optical fibre. Total hours 45 BTech in Computer Science and Engineering(AI) Course Name Category L T P Credi t Year of Introduction Course Code ES0U10A ENGINEERING ESC 2 1 0 3 2022 MECHANICS COURSE OVERVIEW Goal of this course is to expose the students to the fundamental concepts of mechanics and enhance their problem-solving skills. It introduces students to the influence of applied force system and the geometrical properties of the rigid bodies while stationary or in motion. After this course students will be able to recognize similar problems in real-world situations and respond accordingly. COURSE OUTCOMES After the completion of the course, the student will be able to: CO 1 Explain the principles and theorems related to rigid body mechanics. Understand CO 2 Describe the components of system of forces acting on the rigid body. Understand CO 3 Apply the properties of distributed areas and masses for solving Apply problems involving rigid bodies. CO 4 Apply the conditions of equilibrium to various practical problems Apply involving different force systems. CO 5 Apply appropriate principles to solve problems in rigid body mechanics. Apply SYLLABUS Statics of rigid bodies: Classification of force systems, Composition and resolution of forces, Resultant and equilibrium equations, Methods of projections, Varignon’s Theorem of moments. Friction: Analysis of single and connected bodies. Parallel coplanar forces, couple. Beam reactions. Properties of surfaces: Centroid of composite areas, Moment of inertia of areas, Polar moment of inertia, Theorem of Pappus-Guldinus, Forces in space. Dynamics: D’Alembert’s principle, Motion on horizontal and inclined surfaces, Motion of connected bodies. Impulse momentum and work energy relation. Curvilinear translation. Rotation: Kinematics of rotation. Plane motion of rigid body: Instantaneous centre. Simple harmonic motion: Mechanical vibrations. TEXTBOOKS 1) Timoshenko, S., Young, D. H., Rao, J. V. and Pati, S., Engineering Mechanics, Mc-Graw Hill Publishers, 2017. 2) Beer, F. P. and Johnston, R., Vector Mechanics for Engineers: Statics and Dynamics, Tata Mc-Graw Hill Publishing Company Limited, New Delhi, 12thEdition, 2005. 3) Bansal, R. K., A Textbook of Engineering Mechanics, Laxmi Publications, 8thEdition, 2016. BTech in Computer Science and Engineering(AI) 4) Sharma, D. P., Hibbeler, R. C. and Shames, I. H., Engineering Mechanics, Pearson Publishers, 2011. REFERENCES 1) Bhavikkatti, S. S., Engineering Mechanics, New Age International Publishers, 2016. 2) Merriam, J. L. and Kraige, L. G., Engineering Mechanics - Vols. 1 and 2, John Wiley, 7thEdition, 2006. 3) Hibbeler, R. C. and Gupta, A., Engineering Mechanics, Vol. I Statics, Vol II Dynamics, Pearson Education, 2009. 4) Shames, I. H., Engineering Mechanics - Statics and Dynamics, Prentice Hall of India,4th Edition 2005. COURSE PLAN Module Contents No. of hours I Introduction to engineering mechanics - Introduction on statics and 9 dynamics - Basic principles of statics - Parallelogram law, Equilibrium law - Superposition and transmissibility, Law of action and reaction. Free body diagrams - Degree of Freedom-Types of supports and nature of reactions -Exercises for free body diagram preparation - Composition and resolution of forces, Resultant and equilibrium equations. Concurrent coplanar forces - Analysis of concurrent forces - Methods of projections - Methods of moment - Varignon’s Theorem of Moments. II Friction - Sliding friction - Coulomb’s laws of friction - Analysis of single 9 bodies - Analysis of connected bodies. Parallel coplanar forces - Couple - Resultant of parallel forces - Centre of parallel forces - Equilibrium of parallel forces - Simple beam subject to concentrated vertical loads. General coplanar force system - Resultant and equilibrium equations. III Centroid of regular geometrical shapes - Centroid of Composite areas. 9 Moment of inertia- Parallel axis theorem - Perpendicular axis theorem - Polar moment of inertia, Radius of gyration. Mass moment of inertia of ring, cylinder and uniform disc. Theorem of Pappus Guldinus. Introduction to forces in space -Vectorial representation of forces, moments and couples - Resultant and equilibrium equations for concurrent forces in space - Concurrent forces in space. IV Introduction to dynamics - Rectilinear translation - Equations of kinematics. 9 Introduction to kinetics - Equation of motion - D’Alembert’s principle - Motion on horizontal and inclined surfaces - Motion of connected bodies. Curvilinear translation - Projectile motion - Introduction to kinetics - equation of motion. Impulse momentum equation and work energy equation. Moment of momentum and work energy equation (Curvilinear BTech in Computer Science and Engineering(AI) translation). V Rotation - Kinematics of rotation- Equation of motion for a rigid body 9 rotating about a fixed axis - Rotation under a constant moment. Plane motion of rigid body- Instantaneous Centre of rotation (concept only). Introduction to harmonic oscillation - Free vibrations - Simple harmonic motion – Differential equation and solution. Degree of freedom - Examples of single degree of freedom (SDOF) systems -Idealisation of mechanical systems as spring-mass systems (concept only). SDOF spring mass system - Equation of motion -Undamped free vibration response - Concept of natural frequency. Effect of damping on free vibration response (concept only). Total hours 45 BTech in Computer Science and Engineering(AI) Course Course Name Category L T P Credi Year of Code t Introduction ES0U10C BASICS OF CIVIL AND ESC 4 0 0 4 2022 MECHANICAL ENGINEERING COURSE OVERVIEW The goal of this course is to provide an insight on the essentials of Civil and Mechanical Engineering discipline to the students of all branches of Engineering and to provide the students an illustration of the significance of the Civil and Mechanical Engineering Profession in satisfying the societal needs. COURSE OUTCOMES After the completion of the course, the student will be able to: CO 1 Explain different types of buildings, their components, materials, Understand construction techniques and basic infrastructure services. CO 2 Describe the importance, objectives and principles of surveying. Understand CO 3 Apply the principles of levelling to find the level difference between Apply points. CO 4 Summarise the different materials and systems in the context of green Understand buildings. CO 5 Analyse thermodynamic cycles and Illustrate the working and features Apply of IC Engines CO 6 Explain the basic principles of Refrigeration and Air Conditioning and Understand working of hydraulic machines CO 7 Explain the working of power transmission elements, basic Understand manufacturing, metal joining and machining processes SYLLABUS Introduction to Civil Engineering: Relevance and major disciplines of Civil Engineering, Introduction to buildings: Types and different components of buildings, building rules and regulations, Building area. Introduction to surveying: Objectives, Principle, Classification, Levelling, Introduction to modern surveying instrument- Total Station. Construction materials: Bricks, Stones, Sand, Timber, Cement, Cement mortar, Concrete, Steel, Modern construction materials. Building construction: Foundations, Brick masonry, Roofs and floors, Basic infrastructure services, Green buildings. Basics of Mechanical Engineering: Fundamental of thermodynamics. Analysis of thermodynamic cycles and working of internal combustion engines. CRDI, MPFI and concept of hybrid vehicles. Refrigeration and power transmission systems - Analysis of reversed Carnot cycle and vapour compression cycle. Introduction to psychometric. Layout of unit and central air conditioner. BTech in Computer Science and Engineering(AI) Description and basic analysis of hydraulic pump and turbine. Working of different power transmission devices. Manufacturing methods and machine tools - Description of various manufacturing, metal joining process and basic machining operations. Working of different machines tools and CNC machine. Introduction to CAD/CAM, additive and rapid manufacturing. TEXT BOOKS 1) Mamlouk, M. S., and Zaniewski, J. P., Materials for Civil and Construction Engineering, Pearson Publishers, 4th Edition, 2017. 2) Rangwala, S. C., Essentials of Civil Engineering, Charotar Publishing House, 1st Edition, 2012. 3) Clifford, M., Simmons, K. and Shipway, P., An Introduction to Mechanical Engineering Part I - CRC Press, 2009. 4) Kumar, P., Basic Mechanical Engineering, Pearson India, 2013. REFERENCES 1) Chen, W. F. and Liew, J. Y. R. (Eds), The Civil Engineering Handbook, CRC Press (Taylor and Francis), 2ndEdition, 2002 2) Punmia, B. C., Ashok, K. J. and Arun, K. J., Surveying, Vol. I, Laxmi Publications (P) ltd., New Delhi, 17thEdition, 2016 3) Kerala Municipal Building Rules, LSGD, Govt. of Kerala, 2019 4) SP 7: 2016, National Building Code of India, BIS, New Delhi, 2016. 5) Wylen, G. J. V., Sonntag, R. and Borgnakke, C., Fundamentals of Classical Thermodynamics, John Wiley & Sons,2012. 6) Sawhney, G. S., Fundamentals of Mechanical Engineering, PHI Learning; 3rd Revised Edition, 2015. COURSE PLAN Module Contents No. of hours I General Introduction to Civil Engineering: Relevance of Civil 10 Engineering in the overall infrastructure development of the Country. Responsibility of an engineer in ensuring the safety of built environment. Brief introduction to major disciplines of Civil Engineering like Structural Engineering, Transportation Engineering, Geotechnical Engineering, Water Resources Engineering and Environmental Engineering. Introduction to buildings: Types of buildings, selection of site for buildings, components of a residential building and their functions. Building rules and regulations: Relevance of NBC, KBR & CRZ norms BTech in Computer Science and Engineering(AI) (brief discussion only). Building area: Plinth area, built up area, floor area, carpet area and floor area ratio for a building as per KBR. Surveying: Importance, classification, objectives and principles, instruments used. Levelling- principles, dumpy level, simple levelling, differential levelling- problems. Introduction to modern surveying instruments-Total Station. II Construction materials: Conventional construction materials: types, 10 properties and uses of building materials: bricks, stones, cement, sand and timber. Cement Mortar: Materials and properties. Cement concrete: Constituent materials, properties and types. Steel: Steel sections and steel reinforcements, types and uses. Modern construction materials: Architectural glass, ceramics, plastics, composite materials, thermal and acoustic insulating materials, decorative panels, waterproofing materials. Modern uses of gypsum, pre-fabricated building components (brief discussion only). III Building Construction: Foundations: Bearing capacity of soil (definition 10 only), functions of foundations, types – shallow and deep (brief discussion only). Load bearing and framed structures (concept only). Brick masonry: Header and stretcher bond, English bond and Flemish bond. Roofs and floors: Functions, types; flooring materials (brief discussion only). Basic infrastructure services: MEP, HVAC, elevators, escalators and ramps (Civil Engineering aspects only), fire safety for buildings. Green buildings: Materials, energy systems and water management and environment for green buildings (brief discussion only). IV Fundamentals of thermodynamics: Review of basics of thermodynamics- 10 system, surroundings, process, cycle- quasistatic process, laws of thermodynamics. Analysis of thermodynamic cycles: Carnot, Otto, Diesel cycles, Derivation of efficiency of these cycles, Problems to calculate heat added, heat rejected, net-work and efficiency. IC Engines: CI, SI, 2- Stroke, 4-Stroke engines. Listing the parts of different types of IC Engines. Efficiencies of IC Engines (Definitions only), Air, Fuel, cooling and lubricating systems in SI and CI Engines, CRDI, MPFI. Concept of hybrid engines. V Refrigeration: Unit of refrigeration, reversed Carnot cycle, COP, vapour 10 compression cycle (only description and no problems); Definitions of dry, wet & dew point temperatures, specific humidity and relative humidity, Cooling and dehumidification, Layout of unit and central air conditioners. BTech in Computer Science and Engineering(AI) Hydraulic machines: Working principle of Reciprocating pump, Centrifugal pump, Pelton turbine, Francis turbine and Kaplan turbine. Overall efficiency, Problems on calculation of input and output power of pumps and turbines (No velocity triangles) Power Transmission Devices: Belt and Chain drives, Gear and Gear trains, Single plate clutches. VI Manufacturing Process: Basic description of the manufacturing processes 10 – Sand Casting, Forging, Rolling, Extrusion and their applications. Metal Joining Processes: List types of welding, Description with sketches of Arc Welding, Soldering and Brazing and their applications. Basic Machining Operations: Turning, Drilling, Milling and Grinding. Lathe, drilling machine, Milling machine. Computer Aided Machining: CNC Machine. Principle of CAD/CAM, Rapid and Additive manufacturing. 60 Total hours BTech in Computer Science and Engineering(AI) Course Course Name Category L T P Credi t Year of Code Introduction HS0U10A LIFE SKILLS HSC 2 0 2 - 2022"
+                        }
+                    }
+                },
+                {
+                    "ES0U10C": {
+                        "summary": {
+                            "Slot": "2 4 3",
+                            "Category Code": "ESC",
+                            "Course Number": "ES0U10C",
+                            "Courses": "Basics of Civil and Mechanical Engineering",
+                            "L-T-P": "4-0-0",
+                            "Hours": "4",
+                            "Credit": "4"
+                        },
+                        "details": "Not Found"
+                    }
+                },
+                {
+                    "HS0U10A": {
+                        "summary": {
+                            "Slot": "0 4 4 ½ E",
+                            "Category Code": "HSC",
+                            "Course Number": "HS0U10A",
+                            "Courses": "Life Skills",
+                            "L-T-P": "2-0-2",
+                            "Hours": "4",
+                            "Credit": "---"
+                        },
+                        "details": "Not Found"
+                    }
+                },
+                {
+                    "ES0U10G": {
+                        "summary": {
+                            "Slot": "F",
+                            "Category Code": "ESC",
+                            "Course Number": "ES0U10G",
+                            "Courses": "Problem Solving & Programming in C",
+                            "L-T-P": "3-0-2",
+                            "Hours": "5",
+                            "Credit": "4"
+                        },
+                        "details": {
+                            "course_name": "Name Not Found in Header",
+                            "overview": "This course is designed to enhance the employability and maximize the potential of the students by introducing them to the principles that underly personal and professional success, and help them acquire the skills needed to apply these principles in their lives and careers.",
+                            "outcomes": "After the completion of the course, the student will be able to: CO 1 Identify different skills required in personal and professional life. Understand CO 2 Apply well defined techniques to cope with emotions and stress and to Apply provide an awareness of the self. CO 3 Apply appropriate thinking tools and techniques for creative problem Apply solving. CO 4 Explain the importance of teamwork, team performance and team Understand conflicts. CO 5 Explain the basic mechanics of effective communication and Understand demonstrate these through presentations.",
+                            "syllabus": "Overview of Life Skills: Meaning and significance of life skills, Life skills identified by WHO, Life skills for professionals, personality development, IQ, EQ, and SQ. Self-awareness & Stress Management: Definition and need for self-awareness; Tools and techniques of SA, Stress, reasons and effects, the four A's of stress management, Techniques and Approaches, PATH method and relaxation techniques. Critical Thinking & Problem Solving: Creativity, Lateral thinking, Critical thinking, Multiple Intelligence, Problem Solving, Six thinking hats, Mind Mapping & Analytical Thinking. Teamwork: Groups, Teams, Group Vs Teams, Team formation process, Stages of Group, Group Dynamics, Managing Team Performance & Team Conflicts. Leadership Skills: Leadership, Levels of Leadership, Making of a leader, Types of leadership, Transactions Vs Transformational Leadership, VUCA Leaders, Leadership Grid & leadership Formulation.",
+                            "textbooks": "1. Remesh.S., VishnuR.G., Life Skills for Engineers, Ridhima Publications, 1stEdition,2016. 2. Life Skills for Engineers, Complied by ICT Academy of Kerala, McGraw Hill Education (India) Private Ltd., 2016. BTech in Computer Science and Engineering(AI)",
+                            "references": "1. Shiv Khera, You Can Win, Macmillan Books, NewYork,2003. 2. Barun.K. Mitra, Personality Development & Soft Skills, Oxford Publishers, Third impression, 2017. 3. Caruso, D. R. and Salovey P, The Emotionally Intelligent Manager: Howto Develop and Use the Four Key Emotional Skills of Leadership, John Wiley & Sons,2004. 4. Larry James, The First Book of Life Skills; Embassy Books, 1stEdition,2016.",
+                            "course_plan": "Module Contents No. of hours I Overview of Life Skills: Meaning and significance of life skills Life skills identified by WHO: Self- awareness, Empathy, Critical 6 thinking, Creative thinking, Decision making, problem solving, Effective communication, interpersonal relationship, coping with stress, coping with emotion. Life skills for professionals: positive thinking, right attitude, attention to detail, having the big picture, learning skills, research skills, perseverance, setting goals and achieving them, helping others, leadership, motivation, self-motivation, and motivating others, personality development, IQ, EQ, and SQ. Activities based on Creative thinking tools II Self-awareness: Definition, need for self-awareness; Coping with Stress 6 and Emotions, Human Values, tools and techniques of SA: questionnaires, journaling, reflective questions, meditation, mindfulness, psychometric tests, feedback. Stress Management: Stress, reasons and effects, identifying stress, stress diaries, the four A's of stress management, techniques, Approaches: action- oriented, emotion-oriented, acceptance- oriented, resilience, Gratitude Training, Coping with emotions: Identifying and managing emotions, harmful ways of dealing with emotions, PATH method and relaxation techniques. Morals, Values and Ethics: Integrity, Civic Virtue, Respect for Others, Living Peacefully. Caring, Sharing, Honesty, Courage, Valuing Time, Time management, Cooperation, Commitment, Empathy, Self- Confidence, Character, Spirituality, Avoiding Procrastination, Sense of Engineering Ethics. Case studies on Morals and Ethics III 21st century skills: Creativity, Critical Thinking, Collaboration, Problem Solving, Decision Making, Need for Creativity in the 21st century, Imagination, Intuition, Experience, Sources of Creativity, Lateral Thinking, Myths of creativity, Critical thinking Vs Creative thinking, Functions of Left Brain & Right brain, Convergent & Divergent BTech in Computer Science and Engineering(AI) Thinking, Critical reading & Multiple Intelligence. Steps in problem solving: Problem Solving Techniques, Six Thinking 6 Hats, Mind Mapping, Forced Connections. Analytical Thinking, Numeric, symbolic, and graphic reasoning. Scientific temperament and Logical thinking Thinking Hats, Mind Mapping, Forced Connections. Problem solving using Mind map/Six Thinking Hats IV Group and Team Dynamics: Introduction to Groups: Composition, 6 formation, Cycle, thinking, clarifying expectations, Problem Solving, Consensus, Dynamics techniques, Group vs Team, Team Dynamics, Virtual Teams. Managing team performance and managing conflicts, Intrapreneurship. Group Discussion: Differences between group discussion and debate; 6 Ensuring success in group discussions. V Leadership: Leadership framework, entrepreneurial and moral leadership, 6 vision, cultural dimensions. Growing as a leader, turnaround leadership, managing diverse stakeholders, crisis management. Types of Leadership, Traits, Styles, VUCA Leadership, Levels of Leadership, Transactional vs Transformational Leaders, Leadership Grid, Effective Leaders. Presentation Presentation Skills: Oral presentation and public speaking skills; business presentations Total hours 30 Life skills- Practical part 1. Activities based on Creative thinking tools 2. Case studies on Morals and Ethics 3. Problem solving using Mind map/Six Thinking Hats 4. Group Discussion: Differences between group discussion and debate; Ensuring success in group discussions. 5. Oral presentation and public speaking skills; business presentations. BTech in Computer Science and Engineering(AI) Course Year of Course Name Catego L T P Credit Code Introduction ry ES0U10G PROBLEM SOLVING & ESC 2 1 2 4 2022 PROGRAMMING IN C COURSE OVERVIEW This course aims to introduce the concepts of structured programming. It covers basic concepts of C programming language including arrays, functions, pointers and files. This course involves a lab component which equips the learner to solve computational problems through programming. COURSE OUTCOMES After the completion of the course, the student will be able to: Explain the fundamentals of computer architecture and types of CO 1 Understa nd software. Develop a solution using algorithm /flowchart to a computational CO 2 Apply problem. CO 3 Construct programs with control statements and arrays. Apply Make use of user defined data types or functions to solve CO4 Apply computational problems. CO5 Develop programs using files and pointers. Apply SYLLABUS Computer architecture & Programming Languages – Basics of Computer architecture, Types of Programming Languages, System Software, Application Software, Introduction to structured programming, Algorithms, Flowcharts and Pseudo-codes C Programming Language – Data Types, variables, keywords, Constants, Operators and Expressions, Control Flow Statements- Conditional statements, Iterative statements, programs Arrays and Strings– Multidimensional arrays and matrices, String processing, searching and sorting in 1D array. Functions – Scope of variable, Pass by reference and value methods, Recursive functions. Structures and union, Storage Classes Pointers and Files- File Operations, Sequential access and random access, programs covering pointers and files. TEXT BOOKS 1) Byron Gottfried, Programming with C (Schaum's Outlines Series), Mcgraw Hill BTech in Computer Science and Engineering(AI) Education, 3rd Edition, 2017. 2) H. M. Deitel, P. J. Deitel, C: How to program, 7th Edition, Pearson Education, 2010. 3) Anita Goel, Computer Fundamentals, Pearson, 1st Edition, 2010. REFERENCES 1) Brian W. Kernighan and Dennis M. Ritchie, C Programming Language, Pearson, 2nd Edition, 2015. 2) Rajaraman V, PHI, Computer Basics and Programming in C, 1st Edition, 2007. 3) Anita Goel and Ajay Mittal, Computer fundamentals and Programming in C, 1st Edition, 2013. COURSE PLAN No. Module Contents of hour s Basics of Computer architecture. -Von-Neumann Architecture- Processor, Memory, Input and Output devices. Types of Programming Languages, System Software, Application I 8 Software: Compilers, Interpreters, high level and low level languages Introduction to structured programming, Algorithm, flowcharts and Pseudo-code –Examples Basic structure of C program: Character set, Tokens, Identifiers in C, Variables and Data Types, Constants, Console IO Operations, printf and scanf, Operators and Expressions: Expressions and Arithmetic Operators, Relational and Logical Operators, II Conditional operator, size of operator, Assignment operators and 9 Bitwise Operators. Operators Precedence. Control Flow Statements: If Statement, Switch Statement, Unconditional Branching using goto statement, While Loop, Do While Loop, For Loop, Break and Continue statements. Arrays. Strings-string handling functions. Multidimensional arrays and matrices. Linear search and Bubble Sort in array. String III 9 processing: In built string handling functions Simple programs covering arrays and strings Functions : The prototype declaration, Function definition. Function call: Passing arguments to a function, by value, by IV 8 reference. Scope of variable names. Recursive function calls. Storage Classes. Structure and union in C, Array of structures BTech in Computer Science and Engineering(AI) Pointers: Pointer variables. Declaring and dereferencing pointer variables. Accessing arrays through pointers. File Operations: open, close, read, write, append Sequential access and random V access to files: In built file handling functions (rewind (), fseek (), 11 ftell (), feof (), fread (), fwrite ()), simple programs covering pointers and files. Total hours 45 B. Tech in Computer Science and Engineering (AI) 2022-2023 C PROGRAMMING LAB (Practical Part of ES0U10E) 1. Familiarization of console I/O and operators in C i) Display “Hello World” ii) Read two numbers, add them and display their sum iii) Read the radius of a circle, calculate its area and display it iv) Area of triangle after reading its sides 2. Read 3 integer values and find largest of three numbers. 3. Check whether given year is leap year. 4. Display the grade of a student after reading his mark for a subject. (Use switch) 5. Read a Natural Number and check whether the number is prime or not 6. Read a Natural Number and check whether the number is Armstrong or not 7. Display second largest number after reading n numbers from user. (Without array). 8. Read n integers, store them in an array and find their sum and average 9. Read n integers, store them in an array and search for an element in the array using an algorithm for Linear Search 10. Read n integers, store them in an array and sort the elements in the array using Bubble Sort algorithm 11. Write a menu driven program for performing matrix addition, multiplication and finding the transpose. Use functions to (i) read a matrix, (ii) find the sum of two matrices, (iii) find the product of two matrices, (i) find the transpose of a matrix and display a matrix. 12. Display sum of diagonal elements of a matrix 13. Read a string (word), store it in an array and check whether it is a palindrome word or not. 14. Read a string (ending with a $ symbol), store it in an array and count the number of vowels, consonants and spaces in it. 15. Display first n prime numbers using Function. 16. Program to find the sum of digits of a number using recursion 17. Using structure, read and print data of n employees (Name, Employee Id and Salary) 18. Read the marks of three subjects for n students of a class and display their names in the order of rank. (Use array of structure) 19. Input and Print the sum of elements of an array using pointers 20. Create a file and perform the following i) Write data to the file ii) Read the data in a given file & display the file content on console iii) append new data and display on console 21. Open a text input file and count number of characters, words and lines in it; and store the results in an output file. B. Tech in Computer Science and Engineering (AI) 2022-2023 Course Course Name Category L T P Credit Year of Code Introduction PH0U18A ENGINEERING PHYSICS BSC 0 0 2 1 2022 LAB"
+                        }
+                    }
+                },
+                {
+                    "CYOU18A": {
+                        "summary": {
+                            "Slot": "2 2 1 ½",
+                            "Category Code": "BSC",
+                            "Course Number": "CYOU18A",
+                            "Courses": "Chemistry Lab",
+                            "L-T-P": "0-0-2",
+                            "Hours": "2",
+                            "Credit": "1"
+                        },
+                        "details": "Not Found"
+                    }
+                },
+                {
+                    "ES0U18A": {
+                        "summary": {
+                            "Slot": "T",
+                            "Category Code": "ESC",
+                            "Course Number": "ES0U18A",
+                            "Courses": "Civil and Mechanical Workshop",
+                            "L-T-P": "0-0-2",
+                            "Hours": "2",
+                            "Credit": "1"
+                        },
+                        "details": {
+                            "course_name": "Name Not Found in Header",
+                            "overview": "The aim of this course is to enable the students to gain practical knowledge in Physics to correlate with the theoretical studies. It equips the students to utilize the acquired skills in an appropriate way to explore the prospects of modern technology. It brings more confidence in students and develop the ability to fabricate engineering and technical tools.",
+                            "outcomes": "Not Found",
+                            "syllabus": "Not Found",
+                            "textbooks": "Not Found",
+                            "references": "Not Found",
+                            "course_plan": "Not Found"
+                        }
+                    }
+                }
+            ]
+        },
+        "SEMESTER II": {
+            "courses": [
+                {
+                    "MA0U20G": {
+                        "summary": {
+                            "Slot": "A",
+                            "Category Code": "BSC",
+                            "Course Number": "MA0U20G",
+                            "Courses": "Discrete Mathematical Structures",
+                            "L-T-P": "3-1-0",
+                            "Hours": "4",
+                            "Credit": "4"
+                        },
+                        "details": {
+                            "course_name": "Name Not Found in Header",
+                            "overview": "● To expose the students to the commonly used accessories and components in electrical installations and to provide hands on experience of wiring of electrical circuits. ● To enable the students to familiarize, identify, construct, and debug the electronic components, devices and circuits. It also enables the students engineering skills by soldering practices of electronic circuits.",
+                            "outcomes": "Not Found",
+                            "syllabus": "Not Found",
+                            "textbooks": "Not Found",
+                            "references": "Not Found",
+                            "course_plan": "Not Found"
+                        }
+                    }
+                },
+                {
+                    "CS1U20A": {
+                        "summary": {
+                            "Slot": "B",
+                            "Category Code": "PCC",
+                            "Course Number": "CS1U20A",
+                            "Courses": "Data Structures",
+                            "L-T-P": "3-1-0",
+                            "Hours": "4",
+                            "Credit": "4"
+                        },
+                        "details": {
+                            "course_name": "Name Not Found in Header",
+                            "overview": "The purpose of this course is to create awareness in students about the basic terminologies used in advanced courses in Computer Science and develop rigorous logical thinking for solving different kinds of problems in Computer Science. This course helps the learner to apply the theory and applications of elementary Counting Principles, Propositional Logic, Predicate Logic, Lattices, Generating Functions, Recurrence Relations and Algebraic Structures and fundamental concepts in Graph Theory eventually in practical applications. .",
+                            "outcomes": "After the completion of the course, the student will be able to: Course Description Learning Outcomes Level Use the truth tables, deductive reasoning and inference theory on Apply CO 1 Propositional Logic check the validity of predicates in Propositional and Quantified Propositional Logic Classify binary relations into various types and Illustrate an Apply CO 2 application for Partially Ordered Sets and Complete Lattices Describe the fundamentals of abstract algebraic systems - Understand CO 3 Semigroups, Monoids, Groups, Homomorphism and Isomorphism of Monoids and Groups Explain vertices and their properties, types of paths, classification Apply CO 4 of graphs, trees, Planar graphs & their properties. Explain the Vertex Color problem in graphs and illustrate an Apply CO 5 example application for vertex coloring",
+                            "syllabus": "Mathematical logic - Tautology, Contradiction. Logical Equivalence - The Laws of Logic, The Principle of duality, Logical Implication - Rules of Inference, The use of Quantifiers–Logical equivalences and implications for quantified statement, Implications, Negation. Linear recurrence relations with constant coefficients – homogeneous, non-homogeneous Solution. Principles of counting. Binary Relation and Functions. - Relations, Equivalence Relations and partitions. Partial Order relations, partially ordered Set - Lattice, Properties of Lattice. Algebraic Systems-Semi group and monoid-cyclic monoid, Homomorphism and Isomorphism. Group- subgroup, symmetric group, The direct product of two groups, Group Homomorphism-Cyclic Group- Right cosets and Lagrange’s Theorem. Introduction to Graphs, Definition, incidence and degree, sub graphs walks, paths, circuits, Isomorphism, Connectedness, Eulerian and Hamiltonian graphs, Travelling salesman problem, Fleury’s algorithm B. Tech Computer Science and Engineering (Artificial Intelligence) Matrix representation of graphs, Trees, basic properties of trees, Binary trees, Spanning and Minimal spanning tree, Dijkstra, prims and Kruskal algorithms Connectivity, Cut set and Cut vertices, Fundamental circuits, Planar graphs and their properties, Planarity of graphs, Kurtowski’s two graphs, Euler’s formula, Coloring- Chromatic number, Chromatic polynomial, Matchings, Coverings, Four color problem and Five color problem. Greedy colouring algorithm",
+                            "textbooks": "1. Discrete and Combinatorial Mathematics (An Applied Introduction), Ralph P Grimaldi, B V Ramana , 5th Edition, Pearson 2. Narsingh Deo, Graph theory, PHI,1979",
+                            "references": "1. Kenneth H. Rosen, Discrete Mathematics and Its Applications with Combinatorics and Graph Theory, Seventh Edition, MGH, 2011 2. Trembly J.P and Manohar R, “Discrete Mathematical Structures with Applications to Computer Science”, Tata Mc Graw Hill Pub. Co. Ltd., New Delhi, 2003. 3. Bernard Kolman, Robert C. Busby, Sharan Cutler Ross, “Discrete Mathematical Structures”, Pearson Education Pvt Ltd., New Delhi, 2003 4. Douglas B. West, Introduction to Graph Theory, Prentice Hall India Ltd.,2001 5. J.A. Bondy and U.S.R. Murty. Graph theory with Applications 6. Robin J. Wilson, Introduction to Graph Theory, Longman Group Ltd.,2010",
+                            "course_plan": "No. of Module Contents hours I Mathematical logic, Basic Connectives and Truth Table Statements, Tautology, Contradiction Logical Equivalence, The Laws of Logic, The Principle of duality, Substitution Rules, The implication, The 12 Contrapositive, the Converse , the Inverse. Logical Implication, Rules of Inference,The use of Quantifiers, Open Statement, Quantifier, Negation Linear Recurrence Relations with Constant Coefficients of order one and two-Homogeneous Solution Non homogeneous Solution. Pigeonhole principle, Principle of inclusion and exclusion, derangements. II Binary Relation-Reflexive Relations, Symmetric Relations, Transitive relations, Antisymmetric Relations-Partial Order relations Equivalence Relation, Equivalence Classes Partitions, Irreflexive Relations. Partially ordered Set, Hasse Diagram 12 Maximal-Minimal Element, Least Upper bound, Greatest Lower Bound, Lattice- Dual Lattice, sub lattice , Properties of glb and lub Properties of Lattice , Special Lattice , Complete Lattice,Bounded Lattice, Complemented Lattice, Distributive Lattice III Algebraic Systems-Binary operations on a set and its properties Semi group , Monoid, Sub semigroup and sub monoid Cyclic monoid Homomorphism and Isomorphism of Semigroup, Monoids and 12 Groups, Elementary Properties, Subgroup, Symmetric group on three Symbols .The direct Product of two Groups-Group Homomorphism, Isomorphism, Cyclic group, Right coset, Left coset ,Lagrange’s Theorem. IV Concepts of Graphs and Trees: Definition, incidence and degree, sub 12 graphs walks, paths, circuits, Isomorphism, Connectedness, Eulerian and B. Tech Computer Science and Engineering (Artificial Intelligence) Hamiltonian graphs, Travelling salesman problem, Fleury’s algorithm Matrix representation of graphs, adjacency and incidence matrix Trees, basic properties of trees, Binary trees Spanning and Minimal spanning tree Graph theoretical algorithms: Dijkstra, prims and Kruskal V Connectivity and Planar Graphs 12 Vertex Connectivity, Edge Connectivity, Cut set and Cut vertices, Fundamental circuits, Planar graphs and their properties: Planarity of graphs, Kurtowski’s two graphs, Euler’s formula, Coloring- Chromatic number, Chromatic polynomial, Matchings, Coverings, Four color problem and Five color problem. Greedy colouring algorithm. Total hours 60 B. Tech Computer Science and Engineering (Artificial Intelligence) Year of Course Categor Credi Course Name L T P Introductio Code y t n CS1U20A Data Structures PCC 3 1 0 4 2020 PRE-REQUISITE: ES0U10E Programming in C"
+                        }
+                    }
+                },
+                {
+                    "CS1U20B": {
+                        "summary": {
+                            "Slot": "C",
+                            "Category Code": "PCC",
+                            "Course Number": "CS1U20B",
+                            "Courses": "Logic System Design",
+                            "L-T-P": "3-1-0",
+                            "Hours": "4",
+                            "Credit": "4"
+                        },
+                        "details": {
+                            "course_name": "Name Not Found in Header",
+                            "overview": "This course aims to introduce the various data structures, their organization and operations. It covers abstract concepts for data organization and manipulation using data structures such as stacks, queues, linked lists, binary trees, heaps and graphs. It helps the learner to apply appropriate data structures and associated algorithms for solving real world problems efficiently.",
+                            "outcomes": "After the completion of the course, the student will be able to: Design an algorithm for a computational task and calculate the time/space Apply CO 1 complexities. Identify suitable data structure (array or linked list) to represent a data item Apply required to be processed to solve a given computational problem and write an CO 2 algorithm to find the solution of the computational problem. Design an algorithm to find the solution of a computational problem by Apply selecting an appropriate data structure (binary tree/graph) to represent a data CO 3 item to be processed. Apply appropriate Hash Function to store a given dataset and enable efficient Apply CO 4 access of data in the given set. Make use of appropriate sorting algorithms based on specific circumstances. Apply CO 5",
+                            "syllabus": "Introduction: Basic Concepts of Data Structures, Algorithms, Performance Analysis, Asymptotic Notation, Complexity Calculation of Simple Algorithms. Arrays and Searching: Sparse matrix, Stacks and Queues, Linear Search and Binary Search. Linked List and Memory Management: Operations on Linked List, Types of Linked Lists, Stacks and Queues, Memory allocation and deallocation -First-fit, Best-fit and Worst-fit. Trees and Graphs: Binary Trees, Binary Search Trees, Graph Representations, Depth First Search and Breadth First Search, Applications of Graphs. Sorting and Hashing: Selection Sort, Insertion Sort, Quick Sort, Merge Sort and Heap Sort, Hashing Techniques, Collision Resolution, Overflow handling, Hashing functions.",
+                            "textbooks": "1) Ellis Horowitz, Sartaj Sahni and Susan Anderson-Freed, Universities Press, Fundamentals of Data Structures in C.",
+                            "references": "1) Samanta D., Classic Data Structures, Prentice Hall India. B. Tech Computer Science and Engineering (Artificial Intelligence) 2) Richard F. Gilberg, Behrouz A. Forouzan, Data Structures: A Pseudocode Approach with C, 2/e, Cengage Learning. 3) Aho A. V., J. E. Hopcroft and J. D. Ullman, Data Structures and Algorithms, Pearson Publication. 4) Tremblay J. P. and P. G. Sorenson, Introduction to Data Structures with Applications, Tata McGraw Hill.",
+                            "course_plan": "Module Contents No. of hours I Introduction: Basic Concepts of Data Structures, System Life 8 Cycle, Algorithms, Performance Analysis, Space Complexity, Time Complexity, Asymptotic Notation, Complexity Calculation of Simple Algorithms II Arrays and Searching: Polynomial representation using Arrays, 14 Sparse matrix, Stacks, Queues-Circular Queues, Priority Queues, Double Ended Queues, Evaluation of Expressions, Linear Search and Binary Search III Linked List and Memory Management: Self-Referential 14 Structures, Dynamic Memory Allocation, Operations on Linked List-Singly Linked List, Doubly Linked List, Circular Linked List. Stacks and Queues using Linked List, Polynomial representation using Linked List, Memory allocation and deallocation-First-fit, Best-fit and Worst-fit allocation schemes IV Trees and Graphs: Trees, Binary Trees-Tree Operations, Binary 14 Tree Representation, Tree Traversals, Binary Search Trees- Binary Search Tree Operations, Graphs, Representation of Graphs, Depth First Search and Breadth First Search on Graphs, Applications of Graphs V Sorting and Hashing: Sorting Techniques – Selection Sort, 10 Insertion Sort, Quick Sort, Merge Sort and Heap Sort, Hashing- Hashing Techniques, Collision Resolution, Overflow handling, Hashing functions – Mid square, Division, Folding, Digit Analysis Total hours 60 B. Tech Computer Science and Engineering (Artificial Intelligence) Course Credi Year of Course Name Category L T P Code t Introduction CS1U20B Logic System Design PCC 3 1 0 4 2020 PRE-REQUISITE: NIL"
+                        }
+                    }
+                },
+                {
+                    "CS2U20A": {
+                        "summary": {
+                            "Slot": "D",
+                            "Category Code": "PCC",
+                            "Course Number": "CS2U20A",
+                            "Courses": "Object Oriented Programming",
+                            "L-T-P": "3-1-0",
+                            "Hours": "4",
+                            "Credit": "4"
+                        },
+                        "details": {
+                            "course_name": "Name Not Found in Header",
+                            "overview": "The goal of this course is to impart an understanding of the basic concepts of Boolean algebra and digital systems. This course covers the design and implementation of different types of practically used combinational and sequential circuits. This course helps the learners to develop application level digital logic circuits to solve real life problems.",
+                            "outcomes": "After the completion of the course, the student will be able to: Illustrate decimal, binary, octal, hexadecimal and BCD number systems, Understand CO 1 perform conversions among them and do the operations - complementation, addition, subtraction, multiplication and division on binary numbers . Simplify a given Boolean Function and design a combinational circuit to Apply CO 2 implement the simplified function using Digital Logic Gates. Design combinational circuits - Adders, Code Converters, Decoders, Apply CO 3 Magnitude Comparators, Parity Generator/Checker and design the Programmable Logic Devices -ROM and PLA. Design sequential circuits - Registers, Counters and Shift Registers. Apply CO 4 Illustrate algorithms to perform addition and subtraction on binary, BCD Understand CO 5 and floating point numbers.",
+                            "syllabus": "Number systems, Operations & Codes: Various Number systems - its arithmetic operation - Number Base Conversions- Representation of negative numbers-BCD Arithmetic-Binary codes- character coding schemes. Boolean Algebra: Postulates- Basic theorems and properties of Boolean Algebra-Boolean Functions- Simplification of Boolean Functions-Don't care Conditions-Digital Logic Gates Combinational Logic circuits: Design procedure & Implementation of Binary Adders and Subtractors- BCD Adder-Code Converter-Comparator-Decoder/Encoder-Demux /Mux-Parity Generator/Checker. Sequential logic circuits: Flip-flops- Triggering of flip-flops- Master Slave flip- flops - Excitation table and Characteristic Equation-Counter Design: Asynchronous & Synchronous Counters. Shift registers: Shift register, Ring Counter- Johnson Counter Arithmetic algorithms: Algorithms for arithmetic operations on Negative Numbers-BCD-Floating Point Numbers-Programmable Logic Devices: ROM-Implementation of PLA.",
+                            "textbooks": "1) M. Morris Mano, Digital Logic & Computer Design, 4/e, Pearson Education, 2013 B. Tech Computer Science and Engineering (Artificial Intelligence) 2) Thomas L Floyd, Digital Fundamentals, 10/e, Pearson Education, 2009. 3) M. Morris Mano, Computer System Architecture, 3/e, Pearson Education, 2007.",
+                            "references": "1) M. Morris Mano, Michael D Ciletti , Digital Design With An Introduction to the Verilog HDL, 5/e, Pearson Education, 2013. 2)Donald D Givone, Digital Principles and Design, Tata McGraw Hill, 2003.",
+                            "course_plan": "Module Contents No. of hours I Number systems, Operations & Codes 12 Decimal, Binary, Octal and Hexadecimal Number Systems- Number Base Conversions. Addition, Subtraction, Multiplication and Division of binary numbers. Representation of negative numbers- Complements, Subtraction with complements. Addition and subtraction of BCD, Octal and Hexadecimal numbers. Binary codes- Decimal codes, Error detection codes, Reflected code, Character coding schemes – ASCII, EBCDIC. II Boolean Algebra 12 Postulates of Boolean Algebra. Basic theorems and Properties of Boolean Algebra. Boolean Functions - Canonical and Standard forms. Simplification of Boolean Functions- Using Karnaugh- Map Method (upto five variables), Don’t care conditions, Product of sums simplification, Tabulation Method. Digital Logic Gates- Implementation of Boolean functions using basic and universal gates. III Combinational Logic Circuits 12 Design Procedure & Implementation of combinational logic circuits- Binary adders and subtractors, Binary Parallel adder, Carry look ahead adder, BCD adder, Code converter, Magnitude comparator, Decoder, DE multiplexer, Encoder, Multiplexer, Parity generator/ Checker IV Sequential logic circuits 12 Flip-flops- SR, JK, T and D. Triggering of flip-flops- Master slave flip- flops, Edge- triggered flip- flops. Excitation table and characteristic equation. Registers- register with parallel load. Counter design: Asynchronous counters- Binary and BCD counters, timing sequences and state diagrams. Synchronous counters- Binary Up- down counter, BCD counter. V Shift registers 12 Shift registers – Serial In Serial Out, Serial In Parallel Out, Bidirectional Shift Register with Parallel load. Ring counter. Johnson counter- timing sequences and state diagrams. Arithmetic algorithms Algorithms for addition and subtraction of binary numbers in signed magnitude and 2’s complement representations. Algorithm for addition and subtraction of BCD numbers. Representation of floating point numbers, Algorithm for addition and subtraction of floating point numbers. Programmable Logic devices ROM. Programmable Logic Array(PLA)- Implementation of simple circuits using PLA. Total hours 60 B. Tech Computer Science and Engineering (Artificial Intelligence) Course Year of Course Name L T P Cre Code Introduction dit CS2U20A Object oriented 3 1 0 4 2022 Programming using Python PREREQUISITE: ES0U10H INTRODUCTION TO PYTHON"
+                        }
+                    }
+                },
+                {
+                    "ES0U20A": {
+                        "summary": {
+                            "Slot": "E",
+                            "Category Code": "ESC",
+                            "Course Number": "ES0U20A",
+                            "Courses": "Design and Engineering",
+                            "L-T-P": "2-0-0",
+                            "Hours": "2",
+                            "Credit": "2"
+                        },
+                        "details": {
+                            "course_name": "Name Not Found in Header",
+                            "overview": "The course aims to introduce the fundamental principles of intelligent systems to students. This involves ideas about the characteristics of intelligent systems, knowledge representation schemes, logic and inference mechanisms. The course helps the learner to understand the design of self learning systems along with some of their typical applications in the emerging scenario where the business world is being transformed by the progress made in machine learning. PRE-REQUISITE: NIL",
+                            "outcomes": ": After the completion of the course the student will be able to Explain the fundamental concepts of intelligent systems and their Understand CO 1 architecture. Illustrate uninformed and informed search techniques for problem Understand CO 2 solving in intelligent systems. Apply CO 3 Solve Constraint Satisfaction Problems using search techniques. Apply CO 4 Represent AI domain knowledge using logic systems and use inference techniques for reasoning in intelligent systems. Illustrate different types of learning techniques used in intelligent Apply CO 5 systems",
+                            "syllabus": "Not Found",
+                            "textbooks": "Not Found",
+                            "references": "1. Nilsson N.J., Artificial Intelligence - A New Synthesis, Harcourt Asia Pvt. Ltd.",
+                            "course_plan": "No. of Module Contents hours Introduction, What is Artificial Intelligence(AI)?, The foundations of AI, The history of AI, Applications of AI, Intelligent Agents – Agents and Environments, I Good behavior: The concept of rationality, The nature of Environments- - 9 Specifying the task environment, The structure of Agents - Agent programs, Basic kinds of agent programs Solving Problems by searching-Problem solving Agents, Illustration of the problem solving process by agents, Searching for solutions, Uninformed search strategies: BFS, Uniform-cost search, DFS, Depth- limited search, Iterative deepening depth-first search, II 7 Informed search strategies: Best First search, Informed search strategies: A* Search, Heuristic functions Adversarial search – Games, Optimal decisions in games, The Minimax algorithm, Alpha-Beta pruning, Constraint Satisfaction Problems – Defining CSP, Example Problem formulations, Constraint Propagation- inference in III 8 CSPs, Backtracking search for CSPs, The structure of problems Logical Agents – Knowledge based agents and logic, Propositional Logic, Propositional Theorem proving, Agents based on Propositional Logic, First Order Predicate Logic – Syntax and Semantics of First Order Logic, Using First Order Logic, Knowledge representation in First Order Logic, Inference in First Order Logic – Propositional Vs First Order inference, IV 12 Unification and Lifting, Forward chaining, Backward chaining, Resolution, Classical Planning, Algorithms for planning state space search, Planning Graphs . Learning from Examples – Forms of Learning, Supervised Learning, Learning Decision Trees- The decision tree representation, Inducing decision trees from examples, Choosing attribute tests, Generaliztion and V overfitting, Evaluating and choosing the best hypothesis, Regression and 8 classification with Linear models. Course Year of Course Name Category L T P Credit Code Introduction DESIGN AND ES0U20A ESC 2 0 0 2 2020 ENGINEERING PRE-REQUISITE: Nil. Its generic to all engineering disciplines."
+                        }
+                    }
+                },
+                {
+                    "HS0U20A": {
+                        "summary": {
+                            "Slot": "1/2",
+                            "Category Code": "HSC",
+                            "Course Number": "HS0U20A",
+                            "Courses": "Professional Ethics",
+                            "L-T-P": "2-0-0",
+                            "Hours": "2",
+                            "Credit": "2"
+                        },
+                        "details": {
+                            "course_name": "Name Not Found in Header",
+                            "overview": "Aim of the course is to introduce Object oriented concepts in programming. The course covers Object Oriented Principles, Object Oriented Programming in Python, Inheritance, Exception handling, Event handling, multithreaded programming and working with window-based graphics. The course will enable learners to solve problems by breaking it down to object level while designing software and to implement it using Python.",
+                            "outcomes": "After the completion of the course the student will be able to: Apply CO1 Construct Object Oriented Design using Unified Modelling Language (UML) Apply CO2 Apply the object-oriented concepts - classes, objects, constructors, inheritance, and polymorphism to write python programs. CO3 Apply Utilize packages, modules, files, and exception handling mechanism to develop programs Apply CO4 Utilize multithreading and database connectivity to develop Python applications. Apply CO5 Apply event driven programming and tkinter to develop Graphical User Interface based python application programs.",
+                            "syllabus": "Approaches to Software Design - Functional Oriented Design, Object Oriented Design, Object Modeling Using Unified Modeling Language (UML) – Use case model, Class diagram, Interaction diagram, Activity diagram, State chart diagram. Object Oriented Programming in Python - Class Fundamentals, Constructors, Method Overloading, Access Control, Inheritance - Method Overriding, Accessors and Mutators. Modules and Packages, Exception Handling, Input/ Output - Reading Console Input, Writing B. Tech Computer Science and Engineering (Artificial Intelligence) Console Output. Working with Files. Multithreaded Programming. tkinter fundamentals - Model View Controller (MVC), Event Handling in tkinter, Exploring tkinter, Database Connectivity in Python.",
+                            "textbooks": "1) Blaha, “Object - Oriented Modeling and Design With Uml”, 2/E, Pearson Education,2nd Edition,2007 2) Python Object Oriented Programming, Steven F Lott, Dusty Phillips, 4/e, Packt Publishing, June 2021 3) Michael H. Goldwasser, David Letscher, “Object Oriented Programming in Python,” Prentice Hall, 1st Edition, 2007. 4) Mark Lutz “Programming Python,” O’Reilly 4th Edition,2010",
+                            "references": "1) Kenneth A Lambert., Fundamentals of Python: First Programs2/e, Cengage Publishing, 2016 2) Allen B. Downey, Think Python: How to Think Like a Computer Scientist, 2/e, Schroff, 2016",
+                            "course_plan": "Module Contents No. of hours 10 I Approaches to Software Design - Functional Oriented Design, Object Oriented Design, Object Modeling Using Unified Modeling Language (UML), UML diagrams, Use case model, Class diagram, Interaction diagram, Activity diagram, State chart diagram. Case study. Introduction to Object Oriented concepts – Classes, Objects, Abstraction, Encapsulation, Inheritance, Polymorphism. 14 II Object Oriented Programming in Python - Class Fundamentals, Class attributes, Class decorators, Declaring Objects, Instance attributes, Introduction to Methods, static methods, Constructors, Using Objects as Parameters, Returning Objects, Recursion, Access Control, Accessors and Mutators, Inner Classes. Inheritance, Avoiding Inheritance, Calling Order of Constructors, Method Overloading, Operator Overloading, Method Overriding, Overriding magic methods, Abstract Classes, and Methods. 14 III More features of Python: Modules & Packages- Defining Package, Modular Programming, Importing Packages, Python PIP Packages, Date and Time package. Mathematical functions: math, Python sys, os modules Exception Handling- Errors in Python Program, Types of B. Tech Computer Science and Engineering (Artificial Intelligence) Exceptions, Try and Except Statement- Catching Exceptions, Multiple catch Clauses, nested try Statements, Exception hierarchy, user defined exceptions, finally. Assertions in Python, Try with Else Clause. Input/ Output - command-line parameters, File handling in Python. 8 IV Multithreaded Programming - The Python Thread Model, The Main Thread, Creating Thread, Creating Multiple Threads, Synchronization, Suspending, Resuming and Stopping Threads. 14 V Graphical User Interfaces – Event-driven programming, Coding simple GUI-based programs: Canvas, Labels, displaying images, Input text entry, Popup dialog boxes, Command buttons, tkinter fundamentals - tkinter Key Features, Model View Controller (MVC), tkinter Packages, Event Handling in tkinter, exploring tkinter –Widgets- Basic Widgets, Top level Widgets, Geometry Management, Binding Functions Working with Images in Tkinter. Database connectivity in Python. -Creating and Executing Queries – create table, delete, insert, select. Total hours: 60 B. Tech Computer Science and Engineering (Artificial Intelligence) Course Year of Course Name Category L T P Credit Code Introduction HS0U20A Professional Ethics HSC 2 0 0 2 2020"
+                        }
+                    }
+                },
+                {
+                    "NC0U20B": {
+                        "summary": {
+                            "Slot": "F",
+                            "Category Code": "MNC",
+                            "Course Number": "NC0U20B",
+                            "Courses": "Constitution of India",
+                            "L-T-P": "2-0-0",
+                            "Hours": "2",
+                            "Credit": "---"
+                        },
+                        "details": {
+                            "course_name": "Name Not Found in Header",
+                            "overview": "To enable students to create awareness on ethics and human values.",
+                            "outcomes": "After the completion of the course, the student will be able to: CO 1 Infer the core values that shape the ethical behaviour of a Understand professional. CO 2 Apply philosophical concepts discussed in the course to personal Apply and contemporary issues. Explain the role and responsibility of engineer in technological Understand CO 3 development without compromising personal ethics and legal ethics. Solve moral and ethical problems through exploration and Apply CO 4 assessment by established experiments. Demonstrate the concept of Corporate Social Responsibility, and Understand CO 5 explore its relevance to ethical business activity. Apply the knowledge of human values and social values to Apply CO 6 contemporary ethical values and global issues.",
+                            "syllabus": "Morals, values and Ethics – Integrity- Academic Integrity-Work Ethics- Service Learning- Civic Virtue- Respect for others- Living peacefully- Caring and Sharing- Honestly- Courage-Cooperation commitment- Empathy-Self Confidence -Social Expectations. Senses of Engineering Ethics - Variety of moral issues- Types of inquiry- Moral dilemmas –Moral Autonomy – Kohlberg’s theory- Gilligan’s theory- Consensus and Controversy-Profession and Professionalism- Models of professional Roles-Theories about right action –Self-Interest-Customs and Religion- Uses of Ethical Theories. Engineering as Experimentation – Engineers as responsible Experimenters- Codes of Ethics- Plagiarism- A balanced outlook on law - Challenges case study- Bhopal gas tragedy. Collegiality and loyalty – Managing conflict- Respect for authority- Collective bargaining- Confidentiality- Role of confidentiality in moral Integrity-Conflicts of interest- Occupational crime- Professional rights- Employee right- IPR Discrimination. Multinational Corporations- Environmental Ethics- Business Ethics- Computer Ethics -Role in Technological Development-Engineers as Managers- Consulting Engineers- Engineers as Expert witnesses and Advisors-Moral leadership.",
+                            "textbooks": "1. M Govindarajan, S Natarajan and V S Senthil Kumar, Engineering Ethics, PHI Learning Private Ltd, New Delhi, 2012. 2. R S Naagarazan, A text book on professional ethics and human values, New age international (P) limited, New Delhi, 2006. B. Tech Computer Science and Engineering (Artificial Intelligence)",
+                            "references": "1. Mike W Martin and Roland Schinzinger, Ethics in Engineering,4th edition, Tata McGraw Hill Publishing Company Pvt Ltd, New Delhi,2014. 2. Charles D Fledder mann, Engineering Ethics, Pearson Education/ Prentice Hall of India, New Jersey,2004. 3. Charles E Harris, Michael S Protchard and Michael J Rabins, Engineering Ethics- Concepts and cases, Wadsworth Thompson Learning, United states,2005. 4. http://www.slideword.org/slidestag.aspx/human-values-and-Professional-ethics.",
+                            "course_plan": "No. of Module Contents hours Morals, values and Ethics, Integrity, Academic Integrity, Work Ethics I Service Learning, Civic Virtue, Respect for others, Living peacefully Caring and Sharing, Honesty, Courage, Co-operation commitment Empathy, Self Confidence, Social Expectations 6 Senses of Engineering Ethics, Variety of moral issues, Types of Inquiry-Moral II dilemmas, Moral Autonomy, Kohlberg’s theory Gilligan’s theory, Consensus and Controversy, Profession& Professionalism, Models of professional roles, Theories about right action- 6 Self-Interest-Customs and Religion, Uses of Ethical Theories Engineering as Experimentation, Engineers as responsible Experimenters- III 6 Codes of Ethics, Plagiarism, A balanced outlook on law-Challenger case study, Bhopal gas tragedy Collegiality and loyalty, Managing conflict, Respect for authority IV Collective bargaining, Confidentiality, Role of confidentiality in moral integrity, Conflicts of interest-Occupational crime, Professional rights, 6 Employee right, IPR, Discrimination Multinational Corporations, Environmental Ethics, Business Ethics, V Computer Ethics-Role in Technological Development, Moral leadership- Engineers as Managers, Consulting Engineers, Engineers as Expert witnesses and advisors 6 30 B. Tech Computer Science and Engineering (Artificial Intelligence) Categor Credi Year of Course Code Course Name L T P y t Introduction CONSTITUTION OF NC0U20B MNC 2 0 0 --- 2020 INDIA PREAMBLE: The study of the Constitution of India enables the students to 1) Understand the fundamental rights & duties and directive principles 2) Understand the functions of Executive, Legislature and Judiciary of the Union and the States 3) Understand the relation between the Union and the States 4) Provides the student the knowledge and strength to face the society and people. PREREQUISITE: Nil COURSE OUTCOMES: After the completion of the course, the student will be able to: Explain the historic background of the constitution of India and its CO 1 Understand features. Describe the fundamental rights, duties and directive principles of CO 2 Understand state policy. Discuss the machinery of executive, legislature and judiciary of the CO 3 Understand Union and the States. CO4 Explain the relation between the Union and the States. Understand Demonstrate national and patriotic spirit as responsible citizens of the CO 5 Apply country. SYLLABUS Constitution of India: Definition, historical background, features, preamble, territory, citizenship. State, fundamental rights, directive Principles, fundamental duties. The machinery of the union government, machinery of the state governments. Statutory institutions, miscellaneous provisions, amendments to constitution. TEXT BOOKS 1. M. Laxmikanth, Indian Polity, McGraw Hill Education India, 6/e, 2019. 2. D. D. Basu, Introduction to the Constitution of India, Lexis Nexis, New Delhi, 24/e, 2019. 3. P. M. Bhakshi, The Constitution of India, Universal Law, 14/e, 2017. REFERENCES 1. Ministry of Law and Justice, The Constitution of India, Govt. of India, New Delhi, 2019. 2. J. N. Pandey, The Constitutional Law of India, Central Law agency, Allahabad, 51/e, 2019. 3. M. V.Pylee, India’s Constitution, S. Chand and Company, New Delhi, 16/e, 2016. B. Tech Computer Science and Engineering (Artificial Intelligence) COURSE PLAN No. of Module Contents hours Definition of constitution, historical back ground, salient features of I the constitution. Preamble of the constitution, union and its 4 territory. Meaning of citizenship, types, termination of citizenship. Definition of state, fundamental rights, general nature, classification, right to equality, right to freedom, right against exploitation. Right to freedom of religion, cultural and educational II 7 rights, right to constitutional remedies. Protection in respect of conviction for offences. Directive principles of state policy, classification of directives, fundamental duties. The Union Executive, the President, the Vice President, the Council of Ministers, the Prime Minister, Attorney-General, functions. The III parliament, composition, Rajyasabha, Loksabha, qualification and 7 disqualification of membership, functions of parliament. Union judiciary, the supreme court, jurisdiction, appeal by special leave. The State executive, the Governor, the council of ministers, the Chief minister, advocate general, union Territories. The State IV Legislature, composition, qualification and disqualification of 6 membership, functions. The state judiciary, the high court, jurisdiction, writs jurisdiction. Relations between the Union and the States, legislative relation, administrative relation, financial Relations, Inter State council, finance commission. Emergency provision, freedom of trade V commerce and inter course, comptroller and auditor general of India, 6 public Services, public service commission, administrative Tribunals. Official language, elections, special provisions relating to certain classes, amendments to constitution. Total hours 30 B. Tech Computer Science and Engineering (Artificial Intelligence) Course Categor Credi Year of Course Name L T P Code y t Introduction CS1U28A Data Structures Lab PCC 0 0 3 2 2020 PRE-REQUISITE: ES0U10E Programming in C"
+                        }
+                    }
+                },
+                {
+                    "CS1U28A": {
+                        "summary": {
+                            "Slot": "S",
+                            "Category Code": "PCC",
+                            "Course Number": "CS1U28A",
+                            "Courses": "Data Structures Lab",
+                            "L-T-P": "0-0-3",
+                            "Hours": "3",
+                            "Credit": "2"
+                        },
+                        "details": "Not Found"
+                    }
+                },
+                {
+                    "CS2U28A": {
+                        "summary": {
+                            "Slot": "T",
+                            "Category Code": "PCC",
+                            "Course Number": "CS2U28A",
+                            "Courses": "Object Oriented Programming Lab (in",
+                            "L-T-P": "0-0-3",
+                            "Hours": "3",
+                            "Credit": "2"
+                        },
+                        "details": {
+                            "course_name": "Name Not Found in Header",
+                            "overview": "The aim of this course is to give hands-on experience in creating and using different Data Structures. It also covers various applications of linear and nonlinear Data Structures. This course helps the learners to select appropriate data structures to solve computational problems.",
+                            "outcomes": "After the completion of the course, the student will be able to: Implement different data structures like stacks, queues, linked lists, Apply CO 1 trees and graphs efficiently. Apply CO 2 Apply appropriate data structures to solve problems efficiently. Apply CO 3 Design an efficient program to search/sort a list of records. Apply CO 4 Implement different hashing techniques.",
+                            "syllabus": "Not Found",
+                            "textbooks": "Not Found",
+                            "references": "Not Found",
+                            "course_plan": "Experiment List of Exercises No. of hours No. Implementation of different searching techniques. I 3 B. Tech Computer Science and Engineering (Artificial Intelligence) Implementation of stack, queue and their applications. II 9 III Implementation of linked lists and its applications. 9 IV Implementation of trees and its applications. 9 V 3 Implementation of graph traversals. Implementation of different sorting techniques. VI 6 VII Implementing different hashing techniques. 6 Total hours 45 B. Tech Computer Science and Engineering (Artificial Intelligence) Course Year of Course Name L T P Credi Code Introduction t CS2U28A Object oriented 0 0 3 2 2022 Programming Lab (in Python) PREREQUISITE: ES0U10H : Introduction to Python"
+                        }
+                    }
+                }
+            ]
+        },
+        "SEMESTER III": {
+            "courses": [
+                {
+                    "MA0U20G": {
+                        "summary": {
+                            "Slot": "A",
+                            "Category Code": "BSC",
+                            "Course Number": "MA0U20G",
+                            "Courses": "Discrete Mathematical Structures",
+                            "L-T-P": "3-1-0",
+                            "Hours": "4",
+                            "Credit": "4"
+                        },
+                        "details": {
+                            "course_name": "Name Not Found in Header",
+                            "overview": "● To expose the students to the commonly used accessories and components in electrical installations and to provide hands on experience of wiring of electrical circuits. ● To enable the students to familiarize, identify, construct, and debug the electronic components, devices and circuits. It also enables the students engineering skills by soldering practices of electronic circuits.",
+                            "outcomes": "Not Found",
+                            "syllabus": "Not Found",
+                            "textbooks": "Not Found",
+                            "references": "Not Found",
+                            "course_plan": "Not Found"
+                        }
+                    }
+                },
+                {
+                    "CS1U20A": {
+                        "summary": {
+                            "Slot": "B",
+                            "Category Code": "PCC",
+                            "Course Number": "CS1U20A",
+                            "Courses": "Data Structures",
+                            "L-T-P": "3-1-0",
+                            "Hours": "4",
+                            "Credit": "4"
+                        },
+                        "details": {
+                            "course_name": "Name Not Found in Header",
+                            "overview": "The purpose of this course is to create awareness in students about the basic terminologies used in advanced courses in Computer Science and develop rigorous logical thinking for solving different kinds of problems in Computer Science. This course helps the learner to apply the theory and applications of elementary Counting Principles, Propositional Logic, Predicate Logic, Lattices, Generating Functions, Recurrence Relations and Algebraic Structures and fundamental concepts in Graph Theory eventually in practical applications. .",
+                            "outcomes": "After the completion of the course, the student will be able to: Course Description Learning Outcomes Level Use the truth tables, deductive reasoning and inference theory on Apply CO 1 Propositional Logic check the validity of predicates in Propositional and Quantified Propositional Logic Classify binary relations into various types and Illustrate an Apply CO 2 application for Partially Ordered Sets and Complete Lattices Describe the fundamentals of abstract algebraic systems - Understand CO 3 Semigroups, Monoids, Groups, Homomorphism and Isomorphism of Monoids and Groups Explain vertices and their properties, types of paths, classification Apply CO 4 of graphs, trees, Planar graphs & their properties. Explain the Vertex Color problem in graphs and illustrate an Apply CO 5 example application for vertex coloring",
+                            "syllabus": "Mathematical logic - Tautology, Contradiction. Logical Equivalence - The Laws of Logic, The Principle of duality, Logical Implication - Rules of Inference, The use of Quantifiers–Logical equivalences and implications for quantified statement, Implications, Negation. Linear recurrence relations with constant coefficients – homogeneous, non-homogeneous Solution. Principles of counting. Binary Relation and Functions. - Relations, Equivalence Relations and partitions. Partial Order relations, partially ordered Set - Lattice, Properties of Lattice. Algebraic Systems-Semi group and monoid-cyclic monoid, Homomorphism and Isomorphism. Group- subgroup, symmetric group, The direct product of two groups, Group Homomorphism-Cyclic Group- Right cosets and Lagrange’s Theorem. Introduction to Graphs, Definition, incidence and degree, sub graphs walks, paths, circuits, Isomorphism, Connectedness, Eulerian and Hamiltonian graphs, Travelling salesman problem, Fleury’s algorithm B. Tech Computer Science and Engineering (Artificial Intelligence) Matrix representation of graphs, Trees, basic properties of trees, Binary trees, Spanning and Minimal spanning tree, Dijkstra, prims and Kruskal algorithms Connectivity, Cut set and Cut vertices, Fundamental circuits, Planar graphs and their properties, Planarity of graphs, Kurtowski’s two graphs, Euler’s formula, Coloring- Chromatic number, Chromatic polynomial, Matchings, Coverings, Four color problem and Five color problem. Greedy colouring algorithm",
+                            "textbooks": "1. Discrete and Combinatorial Mathematics (An Applied Introduction), Ralph P Grimaldi, B V Ramana , 5th Edition, Pearson 2. Narsingh Deo, Graph theory, PHI,1979",
+                            "references": "1. Kenneth H. Rosen, Discrete Mathematics and Its Applications with Combinatorics and Graph Theory, Seventh Edition, MGH, 2011 2. Trembly J.P and Manohar R, “Discrete Mathematical Structures with Applications to Computer Science”, Tata Mc Graw Hill Pub. Co. Ltd., New Delhi, 2003. 3. Bernard Kolman, Robert C. Busby, Sharan Cutler Ross, “Discrete Mathematical Structures”, Pearson Education Pvt Ltd., New Delhi, 2003 4. Douglas B. West, Introduction to Graph Theory, Prentice Hall India Ltd.,2001 5. J.A. Bondy and U.S.R. Murty. Graph theory with Applications 6. Robin J. Wilson, Introduction to Graph Theory, Longman Group Ltd.,2010",
+                            "course_plan": "No. of Module Contents hours I Mathematical logic, Basic Connectives and Truth Table Statements, Tautology, Contradiction Logical Equivalence, The Laws of Logic, The Principle of duality, Substitution Rules, The implication, The 12 Contrapositive, the Converse , the Inverse. Logical Implication, Rules of Inference,The use of Quantifiers, Open Statement, Quantifier, Negation Linear Recurrence Relations with Constant Coefficients of order one and two-Homogeneous Solution Non homogeneous Solution. Pigeonhole principle, Principle of inclusion and exclusion, derangements. II Binary Relation-Reflexive Relations, Symmetric Relations, Transitive relations, Antisymmetric Relations-Partial Order relations Equivalence Relation, Equivalence Classes Partitions, Irreflexive Relations. Partially ordered Set, Hasse Diagram 12 Maximal-Minimal Element, Least Upper bound, Greatest Lower Bound, Lattice- Dual Lattice, sub lattice , Properties of glb and lub Properties of Lattice , Special Lattice , Complete Lattice,Bounded Lattice, Complemented Lattice, Distributive Lattice III Algebraic Systems-Binary operations on a set and its properties Semi group , Monoid, Sub semigroup and sub monoid Cyclic monoid Homomorphism and Isomorphism of Semigroup, Monoids and 12 Groups, Elementary Properties, Subgroup, Symmetric group on three Symbols .The direct Product of two Groups-Group Homomorphism, Isomorphism, Cyclic group, Right coset, Left coset ,Lagrange’s Theorem. IV Concepts of Graphs and Trees: Definition, incidence and degree, sub 12 graphs walks, paths, circuits, Isomorphism, Connectedness, Eulerian and B. Tech Computer Science and Engineering (Artificial Intelligence) Hamiltonian graphs, Travelling salesman problem, Fleury’s algorithm Matrix representation of graphs, adjacency and incidence matrix Trees, basic properties of trees, Binary trees Spanning and Minimal spanning tree Graph theoretical algorithms: Dijkstra, prims and Kruskal V Connectivity and Planar Graphs 12 Vertex Connectivity, Edge Connectivity, Cut set and Cut vertices, Fundamental circuits, Planar graphs and their properties: Planarity of graphs, Kurtowski’s two graphs, Euler’s formula, Coloring- Chromatic number, Chromatic polynomial, Matchings, Coverings, Four color problem and Five color problem. Greedy colouring algorithm. Total hours 60 B. Tech Computer Science and Engineering (Artificial Intelligence) Year of Course Categor Credi Course Name L T P Introductio Code y t n CS1U20A Data Structures PCC 3 1 0 4 2020 PRE-REQUISITE: ES0U10E Programming in C"
+                        }
+                    }
+                },
+                {
+                    "CS1U20B": {
+                        "summary": {
+                            "Slot": "C",
+                            "Category Code": "PCC",
+                            "Course Number": "CS1U20B",
+                            "Courses": "Logic System Design",
+                            "L-T-P": "3-1-0",
+                            "Hours": "4",
+                            "Credit": "4"
+                        },
+                        "details": {
+                            "course_name": "Name Not Found in Header",
+                            "overview": "This course aims to introduce the various data structures, their organization and operations. It covers abstract concepts for data organization and manipulation using data structures such as stacks, queues, linked lists, binary trees, heaps and graphs. It helps the learner to apply appropriate data structures and associated algorithms for solving real world problems efficiently.",
+                            "outcomes": "After the completion of the course, the student will be able to: Design an algorithm for a computational task and calculate the time/space Apply CO 1 complexities. Identify suitable data structure (array or linked list) to represent a data item Apply required to be processed to solve a given computational problem and write an CO 2 algorithm to find the solution of the computational problem. Design an algorithm to find the solution of a computational problem by Apply selecting an appropriate data structure (binary tree/graph) to represent a data CO 3 item to be processed. Apply appropriate Hash Function to store a given dataset and enable efficient Apply CO 4 access of data in the given set. Make use of appropriate sorting algorithms based on specific circumstances. Apply CO 5",
+                            "syllabus": "Introduction: Basic Concepts of Data Structures, Algorithms, Performance Analysis, Asymptotic Notation, Complexity Calculation of Simple Algorithms. Arrays and Searching: Sparse matrix, Stacks and Queues, Linear Search and Binary Search. Linked List and Memory Management: Operations on Linked List, Types of Linked Lists, Stacks and Queues, Memory allocation and deallocation -First-fit, Best-fit and Worst-fit. Trees and Graphs: Binary Trees, Binary Search Trees, Graph Representations, Depth First Search and Breadth First Search, Applications of Graphs. Sorting and Hashing: Selection Sort, Insertion Sort, Quick Sort, Merge Sort and Heap Sort, Hashing Techniques, Collision Resolution, Overflow handling, Hashing functions.",
+                            "textbooks": "1) Ellis Horowitz, Sartaj Sahni and Susan Anderson-Freed, Universities Press, Fundamentals of Data Structures in C.",
+                            "references": "1) Samanta D., Classic Data Structures, Prentice Hall India. B. Tech Computer Science and Engineering (Artificial Intelligence) 2) Richard F. Gilberg, Behrouz A. Forouzan, Data Structures: A Pseudocode Approach with C, 2/e, Cengage Learning. 3) Aho A. V., J. E. Hopcroft and J. D. Ullman, Data Structures and Algorithms, Pearson Publication. 4) Tremblay J. P. and P. G. Sorenson, Introduction to Data Structures with Applications, Tata McGraw Hill.",
+                            "course_plan": "Module Contents No. of hours I Introduction: Basic Concepts of Data Structures, System Life 8 Cycle, Algorithms, Performance Analysis, Space Complexity, Time Complexity, Asymptotic Notation, Complexity Calculation of Simple Algorithms II Arrays and Searching: Polynomial representation using Arrays, 14 Sparse matrix, Stacks, Queues-Circular Queues, Priority Queues, Double Ended Queues, Evaluation of Expressions, Linear Search and Binary Search III Linked List and Memory Management: Self-Referential 14 Structures, Dynamic Memory Allocation, Operations on Linked List-Singly Linked List, Doubly Linked List, Circular Linked List. Stacks and Queues using Linked List, Polynomial representation using Linked List, Memory allocation and deallocation-First-fit, Best-fit and Worst-fit allocation schemes IV Trees and Graphs: Trees, Binary Trees-Tree Operations, Binary 14 Tree Representation, Tree Traversals, Binary Search Trees- Binary Search Tree Operations, Graphs, Representation of Graphs, Depth First Search and Breadth First Search on Graphs, Applications of Graphs V Sorting and Hashing: Sorting Techniques – Selection Sort, 10 Insertion Sort, Quick Sort, Merge Sort and Heap Sort, Hashing- Hashing Techniques, Collision Resolution, Overflow handling, Hashing functions – Mid square, Division, Folding, Digit Analysis Total hours 60 B. Tech Computer Science and Engineering (Artificial Intelligence) Course Credi Year of Course Name Category L T P Code t Introduction CS1U20B Logic System Design PCC 3 1 0 4 2020 PRE-REQUISITE: NIL"
+                        }
+                    }
+                },
+                {
+                    "CS2U20A": {
+                        "summary": {
+                            "Slot": "D",
+                            "Category Code": "PCC",
+                            "Course Number": "CS2U20A",
+                            "Courses": "Object Oriented Programming",
+                            "L-T-P": "3-1-0",
+                            "Hours": "4",
+                            "Credit": "4"
+                        },
+                        "details": {
+                            "course_name": "Name Not Found in Header",
+                            "overview": "The goal of this course is to impart an understanding of the basic concepts of Boolean algebra and digital systems. This course covers the design and implementation of different types of practically used combinational and sequential circuits. This course helps the learners to develop application level digital logic circuits to solve real life problems.",
+                            "outcomes": "After the completion of the course, the student will be able to: Illustrate decimal, binary, octal, hexadecimal and BCD number systems, Understand CO 1 perform conversions among them and do the operations - complementation, addition, subtraction, multiplication and division on binary numbers . Simplify a given Boolean Function and design a combinational circuit to Apply CO 2 implement the simplified function using Digital Logic Gates. Design combinational circuits - Adders, Code Converters, Decoders, Apply CO 3 Magnitude Comparators, Parity Generator/Checker and design the Programmable Logic Devices -ROM and PLA. Design sequential circuits - Registers, Counters and Shift Registers. Apply CO 4 Illustrate algorithms to perform addition and subtraction on binary, BCD Understand CO 5 and floating point numbers.",
+                            "syllabus": "Number systems, Operations & Codes: Various Number systems - its arithmetic operation - Number Base Conversions- Representation of negative numbers-BCD Arithmetic-Binary codes- character coding schemes. Boolean Algebra: Postulates- Basic theorems and properties of Boolean Algebra-Boolean Functions- Simplification of Boolean Functions-Don't care Conditions-Digital Logic Gates Combinational Logic circuits: Design procedure & Implementation of Binary Adders and Subtractors- BCD Adder-Code Converter-Comparator-Decoder/Encoder-Demux /Mux-Parity Generator/Checker. Sequential logic circuits: Flip-flops- Triggering of flip-flops- Master Slave flip- flops - Excitation table and Characteristic Equation-Counter Design: Asynchronous & Synchronous Counters. Shift registers: Shift register, Ring Counter- Johnson Counter Arithmetic algorithms: Algorithms for arithmetic operations on Negative Numbers-BCD-Floating Point Numbers-Programmable Logic Devices: ROM-Implementation of PLA.",
+                            "textbooks": "1) M. Morris Mano, Digital Logic & Computer Design, 4/e, Pearson Education, 2013 B. Tech Computer Science and Engineering (Artificial Intelligence) 2) Thomas L Floyd, Digital Fundamentals, 10/e, Pearson Education, 2009. 3) M. Morris Mano, Computer System Architecture, 3/e, Pearson Education, 2007.",
+                            "references": "1) M. Morris Mano, Michael D Ciletti , Digital Design With An Introduction to the Verilog HDL, 5/e, Pearson Education, 2013. 2)Donald D Givone, Digital Principles and Design, Tata McGraw Hill, 2003.",
+                            "course_plan": "Module Contents No. of hours I Number systems, Operations & Codes 12 Decimal, Binary, Octal and Hexadecimal Number Systems- Number Base Conversions. Addition, Subtraction, Multiplication and Division of binary numbers. Representation of negative numbers- Complements, Subtraction with complements. Addition and subtraction of BCD, Octal and Hexadecimal numbers. Binary codes- Decimal codes, Error detection codes, Reflected code, Character coding schemes – ASCII, EBCDIC. II Boolean Algebra 12 Postulates of Boolean Algebra. Basic theorems and Properties of Boolean Algebra. Boolean Functions - Canonical and Standard forms. Simplification of Boolean Functions- Using Karnaugh- Map Method (upto five variables), Don’t care conditions, Product of sums simplification, Tabulation Method. Digital Logic Gates- Implementation of Boolean functions using basic and universal gates. III Combinational Logic Circuits 12 Design Procedure & Implementation of combinational logic circuits- Binary adders and subtractors, Binary Parallel adder, Carry look ahead adder, BCD adder, Code converter, Magnitude comparator, Decoder, DE multiplexer, Encoder, Multiplexer, Parity generator/ Checker IV Sequential logic circuits 12 Flip-flops- SR, JK, T and D. Triggering of flip-flops- Master slave flip- flops, Edge- triggered flip- flops. Excitation table and characteristic equation. Registers- register with parallel load. Counter design: Asynchronous counters- Binary and BCD counters, timing sequences and state diagrams. Synchronous counters- Binary Up- down counter, BCD counter. V Shift registers 12 Shift registers – Serial In Serial Out, Serial In Parallel Out, Bidirectional Shift Register with Parallel load. Ring counter. Johnson counter- timing sequences and state diagrams. Arithmetic algorithms Algorithms for addition and subtraction of binary numbers in signed magnitude and 2’s complement representations. Algorithm for addition and subtraction of BCD numbers. Representation of floating point numbers, Algorithm for addition and subtraction of floating point numbers. Programmable Logic devices ROM. Programmable Logic Array(PLA)- Implementation of simple circuits using PLA. Total hours 60 B. Tech Computer Science and Engineering (Artificial Intelligence) Course Year of Course Name L T P Cre Code Introduction dit CS2U20A Object oriented 3 1 0 4 2022 Programming using Python PREREQUISITE: ES0U10H INTRODUCTION TO PYTHON"
+                        }
+                    }
+                },
+                {
+                    "ES0U20A": {
+                        "summary": {
+                            "Slot": "E",
+                            "Category Code": "ESC",
+                            "Course Number": "ES0U20A",
+                            "Courses": "Design and Engineering",
+                            "L-T-P": "2-0-0",
+                            "Hours": "2",
+                            "Credit": "2"
+                        },
+                        "details": {
+                            "course_name": "Name Not Found in Header",
+                            "overview": "The course aims to introduce the fundamental principles of intelligent systems to students. This involves ideas about the characteristics of intelligent systems, knowledge representation schemes, logic and inference mechanisms. The course helps the learner to understand the design of self learning systems along with some of their typical applications in the emerging scenario where the business world is being transformed by the progress made in machine learning. PRE-REQUISITE: NIL",
+                            "outcomes": ": After the completion of the course the student will be able to Explain the fundamental concepts of intelligent systems and their Understand CO 1 architecture. Illustrate uninformed and informed search techniques for problem Understand CO 2 solving in intelligent systems. Apply CO 3 Solve Constraint Satisfaction Problems using search techniques. Apply CO 4 Represent AI domain knowledge using logic systems and use inference techniques for reasoning in intelligent systems. Illustrate different types of learning techniques used in intelligent Apply CO 5 systems",
+                            "syllabus": "Not Found",
+                            "textbooks": "Not Found",
+                            "references": "1. Nilsson N.J., Artificial Intelligence - A New Synthesis, Harcourt Asia Pvt. Ltd.",
+                            "course_plan": "No. of Module Contents hours Introduction, What is Artificial Intelligence(AI)?, The foundations of AI, The history of AI, Applications of AI, Intelligent Agents – Agents and Environments, I Good behavior: The concept of rationality, The nature of Environments- - 9 Specifying the task environment, The structure of Agents - Agent programs, Basic kinds of agent programs Solving Problems by searching-Problem solving Agents, Illustration of the problem solving process by agents, Searching for solutions, Uninformed search strategies: BFS, Uniform-cost search, DFS, Depth- limited search, Iterative deepening depth-first search, II 7 Informed search strategies: Best First search, Informed search strategies: A* Search, Heuristic functions Adversarial search – Games, Optimal decisions in games, The Minimax algorithm, Alpha-Beta pruning, Constraint Satisfaction Problems – Defining CSP, Example Problem formulations, Constraint Propagation- inference in III 8 CSPs, Backtracking search for CSPs, The structure of problems Logical Agents – Knowledge based agents and logic, Propositional Logic, Propositional Theorem proving, Agents based on Propositional Logic, First Order Predicate Logic – Syntax and Semantics of First Order Logic, Using First Order Logic, Knowledge representation in First Order Logic, Inference in First Order Logic – Propositional Vs First Order inference, IV 12 Unification and Lifting, Forward chaining, Backward chaining, Resolution, Classical Planning, Algorithms for planning state space search, Planning Graphs . Learning from Examples – Forms of Learning, Supervised Learning, Learning Decision Trees- The decision tree representation, Inducing decision trees from examples, Choosing attribute tests, Generaliztion and V overfitting, Evaluating and choosing the best hypothesis, Regression and 8 classification with Linear models. Course Year of Course Name Category L T P Credit Code Introduction DESIGN AND ES0U20A ESC 2 0 0 2 2020 ENGINEERING PRE-REQUISITE: Nil. Its generic to all engineering disciplines."
+                        }
+                    }
+                },
+                {
+                    "HS0U20A": {
+                        "summary": {
+                            "Slot": "1/2",
+                            "Category Code": "HSC",
+                            "Course Number": "HS0U20A",
+                            "Courses": "Professional Ethics",
+                            "L-T-P": "2-0-0",
+                            "Hours": "2",
+                            "Credit": "2"
+                        },
+                        "details": {
+                            "course_name": "Name Not Found in Header",
+                            "overview": "Aim of the course is to introduce Object oriented concepts in programming. The course covers Object Oriented Principles, Object Oriented Programming in Python, Inheritance, Exception handling, Event handling, multithreaded programming and working with window-based graphics. The course will enable learners to solve problems by breaking it down to object level while designing software and to implement it using Python.",
+                            "outcomes": "After the completion of the course the student will be able to: Apply CO1 Construct Object Oriented Design using Unified Modelling Language (UML) Apply CO2 Apply the object-oriented concepts - classes, objects, constructors, inheritance, and polymorphism to write python programs. CO3 Apply Utilize packages, modules, files, and exception handling mechanism to develop programs Apply CO4 Utilize multithreading and database connectivity to develop Python applications. Apply CO5 Apply event driven programming and tkinter to develop Graphical User Interface based python application programs.",
+                            "syllabus": "Approaches to Software Design - Functional Oriented Design, Object Oriented Design, Object Modeling Using Unified Modeling Language (UML) – Use case model, Class diagram, Interaction diagram, Activity diagram, State chart diagram. Object Oriented Programming in Python - Class Fundamentals, Constructors, Method Overloading, Access Control, Inheritance - Method Overriding, Accessors and Mutators. Modules and Packages, Exception Handling, Input/ Output - Reading Console Input, Writing B. Tech Computer Science and Engineering (Artificial Intelligence) Console Output. Working with Files. Multithreaded Programming. tkinter fundamentals - Model View Controller (MVC), Event Handling in tkinter, Exploring tkinter, Database Connectivity in Python.",
+                            "textbooks": "1) Blaha, “Object - Oriented Modeling and Design With Uml”, 2/E, Pearson Education,2nd Edition,2007 2) Python Object Oriented Programming, Steven F Lott, Dusty Phillips, 4/e, Packt Publishing, June 2021 3) Michael H. Goldwasser, David Letscher, “Object Oriented Programming in Python,” Prentice Hall, 1st Edition, 2007. 4) Mark Lutz “Programming Python,” O’Reilly 4th Edition,2010",
+                            "references": "1) Kenneth A Lambert., Fundamentals of Python: First Programs2/e, Cengage Publishing, 2016 2) Allen B. Downey, Think Python: How to Think Like a Computer Scientist, 2/e, Schroff, 2016",
+                            "course_plan": "Module Contents No. of hours 10 I Approaches to Software Design - Functional Oriented Design, Object Oriented Design, Object Modeling Using Unified Modeling Language (UML), UML diagrams, Use case model, Class diagram, Interaction diagram, Activity diagram, State chart diagram. Case study. Introduction to Object Oriented concepts – Classes, Objects, Abstraction, Encapsulation, Inheritance, Polymorphism. 14 II Object Oriented Programming in Python - Class Fundamentals, Class attributes, Class decorators, Declaring Objects, Instance attributes, Introduction to Methods, static methods, Constructors, Using Objects as Parameters, Returning Objects, Recursion, Access Control, Accessors and Mutators, Inner Classes. Inheritance, Avoiding Inheritance, Calling Order of Constructors, Method Overloading, Operator Overloading, Method Overriding, Overriding magic methods, Abstract Classes, and Methods. 14 III More features of Python: Modules & Packages- Defining Package, Modular Programming, Importing Packages, Python PIP Packages, Date and Time package. Mathematical functions: math, Python sys, os modules Exception Handling- Errors in Python Program, Types of B. Tech Computer Science and Engineering (Artificial Intelligence) Exceptions, Try and Except Statement- Catching Exceptions, Multiple catch Clauses, nested try Statements, Exception hierarchy, user defined exceptions, finally. Assertions in Python, Try with Else Clause. Input/ Output - command-line parameters, File handling in Python. 8 IV Multithreaded Programming - The Python Thread Model, The Main Thread, Creating Thread, Creating Multiple Threads, Synchronization, Suspending, Resuming and Stopping Threads. 14 V Graphical User Interfaces – Event-driven programming, Coding simple GUI-based programs: Canvas, Labels, displaying images, Input text entry, Popup dialog boxes, Command buttons, tkinter fundamentals - tkinter Key Features, Model View Controller (MVC), tkinter Packages, Event Handling in tkinter, exploring tkinter –Widgets- Basic Widgets, Top level Widgets, Geometry Management, Binding Functions Working with Images in Tkinter. Database connectivity in Python. -Creating and Executing Queries – create table, delete, insert, select. Total hours: 60 B. Tech Computer Science and Engineering (Artificial Intelligence) Course Year of Course Name Category L T P Credit Code Introduction HS0U20A Professional Ethics HSC 2 0 0 2 2020"
+                        }
+                    }
+                },
+                {
+                    "NC0U20B": {
+                        "summary": {
+                            "Slot": "F",
+                            "Category Code": "MNC",
+                            "Course Number": "NC0U20B",
+                            "Courses": "Constitution of India",
+                            "L-T-P": "2-0-0",
+                            "Hours": "2",
+                            "Credit": "---"
+                        },
+                        "details": {
+                            "course_name": "Name Not Found in Header",
+                            "overview": "To enable students to create awareness on ethics and human values.",
+                            "outcomes": "After the completion of the course, the student will be able to: CO 1 Infer the core values that shape the ethical behaviour of a Understand professional. CO 2 Apply philosophical concepts discussed in the course to personal Apply and contemporary issues. Explain the role and responsibility of engineer in technological Understand CO 3 development without compromising personal ethics and legal ethics. Solve moral and ethical problems through exploration and Apply CO 4 assessment by established experiments. Demonstrate the concept of Corporate Social Responsibility, and Understand CO 5 explore its relevance to ethical business activity. Apply the knowledge of human values and social values to Apply CO 6 contemporary ethical values and global issues.",
+                            "syllabus": "Morals, values and Ethics – Integrity- Academic Integrity-Work Ethics- Service Learning- Civic Virtue- Respect for others- Living peacefully- Caring and Sharing- Honestly- Courage-Cooperation commitment- Empathy-Self Confidence -Social Expectations. Senses of Engineering Ethics - Variety of moral issues- Types of inquiry- Moral dilemmas –Moral Autonomy – Kohlberg’s theory- Gilligan’s theory- Consensus and Controversy-Profession and Professionalism- Models of professional Roles-Theories about right action –Self-Interest-Customs and Religion- Uses of Ethical Theories. Engineering as Experimentation – Engineers as responsible Experimenters- Codes of Ethics- Plagiarism- A balanced outlook on law - Challenges case study- Bhopal gas tragedy. Collegiality and loyalty – Managing conflict- Respect for authority- Collective bargaining- Confidentiality- Role of confidentiality in moral Integrity-Conflicts of interest- Occupational crime- Professional rights- Employee right- IPR Discrimination. Multinational Corporations- Environmental Ethics- Business Ethics- Computer Ethics -Role in Technological Development-Engineers as Managers- Consulting Engineers- Engineers as Expert witnesses and Advisors-Moral leadership.",
+                            "textbooks": "1. M Govindarajan, S Natarajan and V S Senthil Kumar, Engineering Ethics, PHI Learning Private Ltd, New Delhi, 2012. 2. R S Naagarazan, A text book on professional ethics and human values, New age international (P) limited, New Delhi, 2006. B. Tech Computer Science and Engineering (Artificial Intelligence)",
+                            "references": "1. Mike W Martin and Roland Schinzinger, Ethics in Engineering,4th edition, Tata McGraw Hill Publishing Company Pvt Ltd, New Delhi,2014. 2. Charles D Fledder mann, Engineering Ethics, Pearson Education/ Prentice Hall of India, New Jersey,2004. 3. Charles E Harris, Michael S Protchard and Michael J Rabins, Engineering Ethics- Concepts and cases, Wadsworth Thompson Learning, United states,2005. 4. http://www.slideword.org/slidestag.aspx/human-values-and-Professional-ethics.",
+                            "course_plan": "No. of Module Contents hours Morals, values and Ethics, Integrity, Academic Integrity, Work Ethics I Service Learning, Civic Virtue, Respect for others, Living peacefully Caring and Sharing, Honesty, Courage, Co-operation commitment Empathy, Self Confidence, Social Expectations 6 Senses of Engineering Ethics, Variety of moral issues, Types of Inquiry-Moral II dilemmas, Moral Autonomy, Kohlberg’s theory Gilligan’s theory, Consensus and Controversy, Profession& Professionalism, Models of professional roles, Theories about right action- 6 Self-Interest-Customs and Religion, Uses of Ethical Theories Engineering as Experimentation, Engineers as responsible Experimenters- III 6 Codes of Ethics, Plagiarism, A balanced outlook on law-Challenger case study, Bhopal gas tragedy Collegiality and loyalty, Managing conflict, Respect for authority IV Collective bargaining, Confidentiality, Role of confidentiality in moral integrity, Conflicts of interest-Occupational crime, Professional rights, 6 Employee right, IPR, Discrimination Multinational Corporations, Environmental Ethics, Business Ethics, V Computer Ethics-Role in Technological Development, Moral leadership- Engineers as Managers, Consulting Engineers, Engineers as Expert witnesses and advisors 6 30 B. Tech Computer Science and Engineering (Artificial Intelligence) Categor Credi Year of Course Code Course Name L T P y t Introduction CONSTITUTION OF NC0U20B MNC 2 0 0 --- 2020 INDIA PREAMBLE: The study of the Constitution of India enables the students to 1) Understand the fundamental rights & duties and directive principles 2) Understand the functions of Executive, Legislature and Judiciary of the Union and the States 3) Understand the relation between the Union and the States 4) Provides the student the knowledge and strength to face the society and people. PREREQUISITE: Nil COURSE OUTCOMES: After the completion of the course, the student will be able to: Explain the historic background of the constitution of India and its CO 1 Understand features. Describe the fundamental rights, duties and directive principles of CO 2 Understand state policy. Discuss the machinery of executive, legislature and judiciary of the CO 3 Understand Union and the States. CO4 Explain the relation between the Union and the States. Understand Demonstrate national and patriotic spirit as responsible citizens of the CO 5 Apply country. SYLLABUS Constitution of India: Definition, historical background, features, preamble, territory, citizenship. State, fundamental rights, directive Principles, fundamental duties. The machinery of the union government, machinery of the state governments. Statutory institutions, miscellaneous provisions, amendments to constitution. TEXT BOOKS 1. M. Laxmikanth, Indian Polity, McGraw Hill Education India, 6/e, 2019. 2. D. D. Basu, Introduction to the Constitution of India, Lexis Nexis, New Delhi, 24/e, 2019. 3. P. M. Bhakshi, The Constitution of India, Universal Law, 14/e, 2017. REFERENCES 1. Ministry of Law and Justice, The Constitution of India, Govt. of India, New Delhi, 2019. 2. J. N. Pandey, The Constitutional Law of India, Central Law agency, Allahabad, 51/e, 2019. 3. M. V.Pylee, India’s Constitution, S. Chand and Company, New Delhi, 16/e, 2016. B. Tech Computer Science and Engineering (Artificial Intelligence) COURSE PLAN No. of Module Contents hours Definition of constitution, historical back ground, salient features of I the constitution. Preamble of the constitution, union and its 4 territory. Meaning of citizenship, types, termination of citizenship. Definition of state, fundamental rights, general nature, classification, right to equality, right to freedom, right against exploitation. Right to freedom of religion, cultural and educational II 7 rights, right to constitutional remedies. Protection in respect of conviction for offences. Directive principles of state policy, classification of directives, fundamental duties. The Union Executive, the President, the Vice President, the Council of Ministers, the Prime Minister, Attorney-General, functions. The III parliament, composition, Rajyasabha, Loksabha, qualification and 7 disqualification of membership, functions of parliament. Union judiciary, the supreme court, jurisdiction, appeal by special leave. The State executive, the Governor, the council of ministers, the Chief minister, advocate general, union Territories. The State IV Legislature, composition, qualification and disqualification of 6 membership, functions. The state judiciary, the high court, jurisdiction, writs jurisdiction. Relations between the Union and the States, legislative relation, administrative relation, financial Relations, Inter State council, finance commission. Emergency provision, freedom of trade V commerce and inter course, comptroller and auditor general of India, 6 public Services, public service commission, administrative Tribunals. Official language, elections, special provisions relating to certain classes, amendments to constitution. Total hours 30 B. Tech Computer Science and Engineering (Artificial Intelligence) Course Categor Credi Year of Course Name L T P Code y t Introduction CS1U28A Data Structures Lab PCC 0 0 3 2 2020 PRE-REQUISITE: ES0U10E Programming in C"
+                        }
+                    }
+                },
+                {
+                    "CS1U28A": {
+                        "summary": {
+                            "Slot": "S",
+                            "Category Code": "PCC",
+                            "Course Number": "CS1U28A",
+                            "Courses": "Data Structures Lab",
+                            "L-T-P": "0-0-3",
+                            "Hours": "3",
+                            "Credit": "2"
+                        },
+                        "details": "Not Found"
+                    }
+                },
+                {
+                    "CS2U28A": {
+                        "summary": {
+                            "Slot": "T",
+                            "Category Code": "PCC",
+                            "Course Number": "CS2U28A",
+                            "Courses": "Object Oriented Programming Lab (in",
+                            "L-T-P": "0-0-3",
+                            "Hours": "3",
+                            "Credit": "2"
+                        },
+                        "details": {
+                            "course_name": "Name Not Found in Header",
+                            "overview": "The aim of this course is to give hands-on experience in creating and using different Data Structures. It also covers various applications of linear and nonlinear Data Structures. This course helps the learners to select appropriate data structures to solve computational problems.",
+                            "outcomes": "After the completion of the course, the student will be able to: Implement different data structures like stacks, queues, linked lists, Apply CO 1 trees and graphs efficiently. Apply CO 2 Apply appropriate data structures to solve problems efficiently. Apply CO 3 Design an efficient program to search/sort a list of records. Apply CO 4 Implement different hashing techniques.",
+                            "syllabus": "Not Found",
+                            "textbooks": "Not Found",
+                            "references": "Not Found",
+                            "course_plan": "Experiment List of Exercises No. of hours No. Implementation of different searching techniques. I 3 B. Tech Computer Science and Engineering (Artificial Intelligence) Implementation of stack, queue and their applications. II 9 III Implementation of linked lists and its applications. 9 IV Implementation of trees and its applications. 9 V 3 Implementation of graph traversals. Implementation of different sorting techniques. VI 6 VII Implementing different hashing techniques. 6 Total hours 45 B. Tech Computer Science and Engineering (Artificial Intelligence) Course Year of Course Name L T P Credi Code Introduction t CS2U28A Object oriented 0 0 3 2 2022 Programming Lab (in Python) PREREQUISITE: ES0U10H : Introduction to Python"
+                        }
+                    }
+                }
+            ]
+        },
+        "SEMESTER V": {
+            "courses": [
+                {
+                    "CS1U30A": {
+                        "summary": {
+                            "Slot": "A",
+                            "Category Code": "PCC",
+                            "Course Number": "CS1U30A",
+                            "Courses": "Formal Languages and Automata",
+                            "L-T-P": "3-1-0",
+                            "Hours": "4",
+                            "Credit": "4"
+                        },
+                        "details": {
+                            "course_name": "Name Not Found in Header",
+                            "overview": "The course enables students to make better economic decisions in wage employment and entrepreneurship using economic alternatives and investment alternatives.",
+                            "outcomes": "After the completion of the course, the student will be able to: Course Description Level Outcomes Explain the problem of scarcity of resources, consumer behaviour and CO 1 the equilibrium condition of demand and supply. Understand Demonstrate the production function and equilibrium condition of a CO 2 producer Understand Survey the functional requirement of a firm under various competitive CO 3 conditions. Analyse Infer the overall performance of the economy, the regulation of CO 4 economic fluctuations and its impact on various sections in the society. Analyse Compare the profitability of projects and businesses with the help of CO 5 capital budgeting methods Evaluate Determine the current impact of global economic policies on the CO 6 business opportunities of a firm Analyse",
+                            "syllabus": "Scarcity and choice - Basic economic problems- PPC – Firms and its objectives – types of firms – Utility – Law of diminishing marginal utility – Demand and its determinants – law of demand – elasticity of demand – measurement of elasticity and its applications – Supply, law of supply and determinants of supply – Equilibrium – Changes in demand and supply and its effects – Consumer surplus and producer surplus (Concepts) – Taxation and deadweight loss. Production function – law of variable proportion – economies of scale – internal and external economies – Isoquants, isocost line and producer’s equilibrium – Expansion path – Technical progress and its implications – Cobb-Douglas production function - Cost concepts – Social cost: private cost and external cost – Explicit and implicit cost – sunk cost - Short run cost curves - long run cost curves – Revenue (concepts) – Shutdown point – Break-even point. Perfect and imperfect competition – monopoly, regulation of monopoly, monopolistic completion (features and equilibrium of a firm) – oligopoly – Kinked demand curve – Collusive oligopoly (meaning) – Non- price competition – Product pricing – Cost plus pricing – Target return pricing – Penetration pricing – Predatory pricing – Going rate pricing – Price skimming. Principles of taxation - Direct Tax – Indirect Tax – GST. Concepts of demonetization. Cryptocurrency Circular flow of economic activities – Stock and flow Gross. National Income – Concepts - Methods of measuring national income – Inflation- causes and effects – Measures to control inflation. Monetary and fiscal policies – Business financing- Bonds and shares -Money market and Capital market – Stock market 145 – Demat account and Trading account - SENSEX and NIFTY. Capital Budgeting - Methods of Investment analysis - Pay back, ARR, NPV, IRR and B/C ratio Advantages and disadvantages of international trade - Absolute and Comparative advantage theory - Heckscher - Ohlin theory - Balance of payments – Components – Balance of Payments deficit and devaluation – Trade policy – Free trade versus protection – Tariff and non-tariff barriers REFERENCE MATERIALS 1. Gregory N Mankiw, ‘Principles of Micro Economics’, Cengage Publications 2015 2. Gregory N Mankiw, ‘Principles of Macro Economics’, Cengage Publications 2012 3. Dwivedi D.N., ‘Macro Economics’, Tata McGraw Hill, New Delhi 4. Mithani D M, ‘Managerial Economics’, Himalaya Publishing House, Mumbai 5. Tulsian, ‘Financial Management’ S Chand & Company 2017 6. Francis Cherunilam, ‘International Economics’, McGraw Hill, New Delhi COURSE PLAN No. of Module Contents hours Scarcity and choice - Basic economic problems- PPC – Firms and its objectives – types of firms – Utility – Law of diminishing marginal utility – Demand and I its determinants – law of demand – elasticity of demand – measurement of elasticity and its applications – Supply, law of supply and determinants of 8 supply – Equilibrium – Changes in demand and supply and its effects – Consumer surplus and producer surplus (Concepts) – Taxation and deadweight loss. Production function – law of variable proportion – economies of scale – internal and external economies – Isoquants, isocost line and producer’s equilibrium – Expansion path – Technical progress and its implications – Cobb-Douglas production function - Cost concepts – Social cost: private cost and external cost II 8 – Explicit and implicit cost – sunk cost - Short run cost curves - long run cost curves – Revenue (concepts) – Shutdown point – Break-even point. Perfect and imperfect competition – monopoly, regulation of monopoly, III monopolistic completion (features and equilibrium of a firm) – oligopoly – Kinked demand curve – Collusive oligopoly (meaning) – Non-price competition – Product pricing – Cost plus pricing – Target return pricing – 9 Penetration pricing – Predatory pricing – Going rate pricing – Price skimming. Principles of taxation - Direct Tax – Indirect Tax – GST. Concepts of demonetization. Cryptocurrency Circular flow of economic activities – Stock and flow Gross. National Income – Concepts - Methods of measuring national income – Inflation- causes and IV effects – Measures to control inflation. Monetary and fiscal policies – Business financing- Bonds and shares -Money market and Capital market – Stock market 11 – Demat account and Trading account - SENSEX and NIFTY. Capital 146 Budgeting - Methods of Investment analysis - Pay back, ARR, NPV, IRR and B/C ratio Advantages and disadvantages of international trade - Absolute and Comparative advantage theory - Heckscher - Ohlin theory - Balance of V payments – Components – Balance of Payments deficit and devaluation – Trade policy – Free trade versus protection – Tariff and non-tariff barriers 9 Total hours 45 MARK DISTRIBUTION Total Marks CIE ESE ESE Duration 150 50 100 3 hours CONTINOUS INTERNAL EVALUATION PATTERN Attendance : 10 marks Continuous Assessment Tests : 25 marks Continuous Assessment Assignment : 15 marks 147 SEMESTER V 148 Course Year of Course Name Category L T P Credit Code Introduction Formal Languages CS1U30A PCC 3 1 0 4 2022 and Automata Theory COURSE OVERVIEW This is a core course in theoretical computer science. It covers automata and grammar representations for languages in Chomsky Hierarchy. For regular languages, it also covers representations using regular expression and Myhill-Nerode Relation. The topics covered in this course have applications in various domains including compiler design, decidability and complexity theory, software testing, formal modelling and verification of hardware and software. COURSE OUTCOMES After the completion of the course, the student will be able to: Course Description Level Outcomes Classify a given formal language into Regular, Context-Free, Context CO 1 Understand Sensitive, Recursive or Recursively Enumerable. Explain a formal representation of a given regular language as a finite CO 2 state automaton, regular grammar, regular expression and Myhill- Understand Nerode relation. Design a Pushdown Automaton and a Context-Free Grammar for a CO 3 Apply given context-free language CO 4 Design Turing machines as language acceptors or transducers Apply CO 5 Explain the notion of decidability. Understand SYLLABUS Introduction to Automata Theory, Structure of an automaton, classification of automata, grammar and automata for generating each class of formal languages in the Chomsky Hierarchy, decidability and Halting problem.",
+                            "textbooks": "1. Dexter C. Kozen, Automata and Computability, Springer (1999)",
+                            "references": "1. John E Hopcroft, Rajeev Motwani and Jeffrey D Ullman, Introduction to Automata Theory, Languages and Computation, 3/e Pearson Education, 2007. 2. Michael Sipser, Introduction To Theory of Computation, Cengage Publishers, 2013.",
+                            "course_plan": "No. of Module Contents hours Scarcity and choice - Basic economic problems- PPC – Firms and its objectives – types of firms – Utility – Law of diminishing marginal utility – Demand and I its determinants – law of demand – elasticity of demand – measurement of elasticity and its applications – Supply, law of supply and determinants of 8 supply – Equilibrium – Changes in demand and supply and its effects – Consumer surplus and producer surplus (Concepts) – Taxation and deadweight loss. Production function – law of variable proportion – economies of scale – internal and external economies – Isoquants, isocost line and producer’s equilibrium – Expansion path – Technical progress and its implications – Cobb-Douglas production function - Cost concepts – Social cost: private cost and external cost II 8 – Explicit and implicit cost – sunk cost - Short run cost curves - long run cost curves – Revenue (concepts) – Shutdown point – Break-even point. Perfect and imperfect competition – monopoly, regulation of monopoly, III monopolistic completion (features and equilibrium of a firm) – oligopoly – Kinked demand curve – Collusive oligopoly (meaning) – Non-price competition – Product pricing – Cost plus pricing – Target return pricing – 9 Penetration pricing – Predatory pricing – Going rate pricing – Price skimming. Principles of taxation - Direct Tax – Indirect Tax – GST. Concepts of demonetization. Cryptocurrency Circular flow of economic activities – Stock and flow Gross. National Income – Concepts - Methods of measuring national income – Inflation- causes and IV effects – Measures to control inflation. Monetary and fiscal policies – Business financing- Bonds and shares -Money market and Capital market – Stock market 11 – Demat account and Trading account - SENSEX and NIFTY. Capital 146 Budgeting - Methods of Investment analysis - Pay back, ARR, NPV, IRR and B/C ratio Advantages and disadvantages of international trade - Absolute and Comparative advantage theory - Heckscher - Ohlin theory - Balance of V payments – Components – Balance of Payments deficit and devaluation – Trade policy – Free trade versus protection – Tariff and non-tariff barriers 9 Total hours 45 MARK DISTRIBUTION Total Marks CIE ESE ESE Duration 150 50 100 3 hours CONTINOUS INTERNAL EVALUATION PATTERN Attendance : 10 marks Continuous Assessment Tests : 25 marks Continuous Assessment Assignment : 15 marks 147 SEMESTER V 148 Course Year of Course Name Category L T P Credit Code Introduction Formal Languages CS1U30A PCC 3 1 0 4 2022 and Automata Theory COURSE OVERVIEW This is a core course in theoretical computer science. It covers automata and grammar representations for languages in Chomsky Hierarchy. For regular languages, it also covers representations using regular expression and Myhill-Nerode Relation. The topics covered in this course have applications in various domains including compiler design, decidability and complexity theory, software testing, formal modelling and verification of hardware and software. COURSE OUTCOMES After the completion of the course, the student will be able to: Course Description Level Outcomes Classify a given formal language into Regular, Context-Free, Context CO 1 Understand Sensitive, Recursive or Recursively Enumerable. Explain a formal representation of a given regular language as a finite CO 2 state automaton, regular grammar, regular expression and Myhill- Understand Nerode relation. Design a Pushdown Automaton and a Context-Free Grammar for a CO 3 Apply given context-free language CO 4 Design Turing machines as language acceptors or transducers Apply CO 5 Explain the notion of decidability. Understand SYLLABUS Introduction to Automata Theory, Structure of an automaton, classification of automata, grammar and automata for generating each class of formal languages in the Chomsky Hierarchy, decidability and Halting problem. TEXT BOOKS 1. Dexter C. Kozen, Automata and Computability, Springer (1999) REFERENCES 1. John E Hopcroft, Rajeev Motwani and Jeffrey D Ullman, Introduction to Automata Theory, Languages and Computation, 3/e Pearson Education, 2007. 2. Michael Sipser, Introduction To Theory of Computation, Cengage Publishers, 2013. COURSE PLAN Module Contents Hours Introduction to formal language theory– Alphabets, Strings, Concatenation of strings, Languages. Regular Languages - Deterministic Finite State Automata (DFA) (Proof of correctness of construction not required), Nondeterministic Finite State I 13 Automata (NFA), Equivalence of DFA and NFA, Regular Grammar (RG), Equivalence of RGs and DFA. More on Regular Languages Regular Expression (RE), Equivalence of REs and II DFA, Homomorphisms, Necessary conditions for regular languages, Closure 12 Properties of Regular Languages, DFA state minimization (No proof required) Myhill-Nerode Relations and Context Free Grammars Myhill-Nerode Relations (MNR)- MNR for regular languages, MyhillNerode Theorem (MNT) (No proof III required), Applications of MNT.Context Free Grammar (CFG)- CFG representation 11 of Context Free Languages (proof of correctness is required), derivation trees and ambiguity, Normal forms for CFGs More on Context-Free Languages Nondeterministic Pushdown Automata (PDA), Deterministic Pushdown Automata (DPDA), Equivalence of PDAs and CFGs (Proof IV not required), Pumping Lemma for Context-Free Languages (Proof not required), 12 Closure Properties of Context Free Languages. Context Sensitive Grammar (CSG), Linear Bounded Automata. (Concept only). Context Sensitive Languages, Turing Machines Context Sensitive Languages - Context Sensitive Grammar (CSG), Linear Bounded Automata.Turing Machines - Standard Turing Machine, Robustness of Turing Machine, Universal Turing V Machine, Halting Problem, Recursive and Recursively Enumerable Languages. 12 Chomsky classification of formal languages. Total Hours 60 MARK DISTRIBUTION Total Marks CIE ESE ESE Duration 150 50 100 3 hours CONTINOUS INTERNAL EVALUATION PATTERN Attendance : 10 marks Continuous Assessment Tests : 25 marks Continuous Assessment Assignment : 15 marks Course Year of Course Name Category L T P Credit Code Introduction CS1U30B Computer Networks PCC 3 1 0 4 2022 COURSE OVERVIEW The course provides the learners a clear understanding of how computer networks from local area networks to the massive and global Internet are built, how they allow computers to share information and communicate with one another. This course covers the physical aspects of computer networks, layers of OSI Reference model, and inter-networking. The course helps the learners to compare and analyze the existing network technologies and choose a suitable network design for a given system. COURSE OUTCOMES After the completion of the course, the student will be able to: Course Description Level Outcomes Explain the features of computer networks, protocols, and CO 1 Understand network design models Describe the fundamental characteristics of the physical layer and CO 2 Apply identify the usage in network communication Understand Explain the design issues of data link layer, link layer protocols, CO 3 bridges and switches Illustrate wired LAN protocols (IEEE 802.3) and wireless LAN Understand CO 4 protocols (IEEE 802.11) Select appropriate routing algorithms, congestion control CO 5 Apply techniques, and Quality of Service requirements for a network Illustrate the functions and protocols of the network layer, CO 6 Understand transport layer, and application layer in inter-networking SYLLABUS TEXT BOOKS 1.Andrew S. Tanenbaum, Computer Networks, 4/e, PHI (Prentice Hall India). 2. Behrouz A Forouzan, Data Communication and Networking, 4/e, Tata McGraw Hill REFERENCES . 1.Larry L Peterson and Bruce S Dave, Computer Networks – A Systems Approach, 5/e, Morgan Kaufmann. 2. Fred Halsall, Computer Networking and the Internet, 5/e. 3. James F. Kurose, Keith W. Ross, Computer Networking: A Top-Down Approach, 6/e. 4. Keshav, An Engineering Approach to Computer Networks, Addison Wesley, 1998. 5. W. Richard Stevens. TCP/IP Illustrated Volume 1, Addison-Wesley, 2005. 6. William Stallings, Computer Networking with Internet Protocols, Prentice-Hall, 2004. 7. Request for Comments (RFC) Pages - IETF -https://www.ietf.org/rfc.html COURSE PLAN Module Contents Hours Introduction – Uses of computer networks, Network hardware, Network software. Reference models – The OSI reference model, The TCP/IP reference model, Comparison of OSI and TCP/IP reference models. Physical I Layer – Modes of communication, Physical topologies, Signal encoding, 12 Repeaters and hub, Transmission media overview. Performance indicators – Bandwidth, Throughput, Latency, Queuing time, Bandwidth–Delay product. Data link layer - Data link layer design issues, Error detection and correction, Sliding window protocols, High-Level Data Link Control(HDLC)protocol. Medium Access Control (MAC) sublayer –Channel allocation problem, II 12 Multiple access protocols, Ethernet, Wireless LANs - 802.11, Bridges & switches - Bridges from 802.x to 802.y, Repeaters, Hubs, Bridges, Switches, Routers and Gateways. Network layer : design issues. Routing algorithms - The Optimality Principle, Shortest path routing, Flooding, Distance Vector Routing, Link III 12 State Routing, Multicast routing, Routing for mobile hosts. Congestion control algorithms. Quality of Service (QoS) - requirements, Techniques for achieving good QoS. IP protocol, IP addresses, Internet Control Message Protocol (ICMP), Address Resolution Protocol (ARP), Reverse Address Resolution Protocol IV 12 (RARP), Bootstrap Protocol (BOOTP), Dynamic Host Configuration Protocol (DHCP). Open Shortest Path First(OSPF) Protocol, Border Gateway Protocol (BGP), Internet multicasting, IPv6, ICMPv6. Transport service – Services provided to the upper layers, Transport service primitives. User Datagram Protocol (UDP). Transmission Control Protocol (TCP) – Overview of TCP, TCP segment header, Connection establishment &release, Connection management modeling, TCP retransmission policy, V 12 TCP congestion control. Application Layer –File Transfer Protocol (FTP), Domain Name System (DNS), Electronic mail, Multipurpose Internet Mail Extension (MIME), Simple Network Management Protocol (SNMP), World Wide Web(WWW) – Architectural overview. Total Hours 60 MARK DISTRIBUTION Total Marks CIE ESE ESE Duration 150 50 100 3 hours CONTINOUS INTERNAL EVALUATION PATTERN Attendance : 10 marks Continuous Assessment Tests : 25 marks Continuous Assessment Assignment : 15 marks Course Course Name Category L T P Credit Year of Code Introduction CS1U30K Operating Systems PCC 3 1 0 4 2022 PRE-REQUISITE: CS1U20A Data Structures and ES0U10G Problem Solving and Programming in C"
+                        }
+                    }
+                },
+                {
+                    "CS1U30B": {
+                        "summary": {
+                            "Slot": "B",
+                            "Category Code": "PCC",
+                            "Course Number": "CS1U30B",
+                            "Courses": "Computer Networks",
+                            "L-T-P": "3-1-0",
+                            "Hours": "4",
+                            "Credit": "4"
+                        },
+                        "details": "Not Found"
+                    }
+                },
+                {
+                    "CS1U30K": {
+                        "summary": {
+                            "Slot": "C",
+                            "Category Code": "PCC",
+                            "Course Number": "CS1U30K",
+                            "Courses": "Operating Systems",
+                            "L-T-P": "3-1-0",
+                            "Hours": "4",
+                            "Credit": "4"
+                        },
+                        "details": "Not Found"
+                    }
+                },
+                {
+                    "CS2U30C": {
+                        "summary": {
+                            "Slot": "D",
+                            "Category Code": "PCC",
+                            "Course Number": "CS2U30C",
+                            "Courses": "Introduction to Machine Learning",
+                            "L-T-P": "3-1-0",
+                            "Hours": "4",
+                            "Credit": "4"
+                        },
+                        "details": {
+                            "course_name": "Name Not Found in Header",
+                            "overview": "Study of operating system is an essential to understand the overall working of computer system, tradeoffs between performance and functionality and the division of jobs between hardware and software. This course introduces the concepts of memory management, device management, process management, file management and security & protection mechanisms available in an operating system. The course helps the learner to understand the fundamentals about any operating system design so that they can extend the features of operating system to detect and solve many problems occurring in operating system and to manage the computer resources appropriately.",
+                            "outcomes": "After the completion of the course, the student will be able to: Course Description Level Outcomes Understand CO 1 Explain the relevance, structure and functions of Operating Systems in computing devices. Apply CO 2 Apply the concepts of process management and process scheduling mechanisms employed in Operating Systems. Understand CO 3 Explain process synchronization in Operating Systems and illustrate process synchronization mechanisms using Mutex Locks, Semaphores and Monitors. Understand CO 4 Explain different methods for detection, prevention, avoidance and recovery for managing deadlocks in Operating Systems. Apply CO 5 Illustrate and examine the memory management algorithms in Operating Systems. Understand CO 6 Explain the security aspects and algorithms for file and storage management in Operating Systems.",
+                            "syllabus": "Introduction: Functions of an operating system-overview. Kernel Data Structures-Operating System Interfaces and implementation - User Interfaces, System Calls. Operating System implementation and Structure, System Boot process. Process Management, Threads, Scheduling Queues- Context Switching-Process Creation and Termination-CPU Scheduling -Inter Process Communication. Process Synchronization, Critical Section-Synchronization – Locks, Semaphores, Monitors, Classical Problems and its implementation- Deadlocks- Handling – Prevention – Avoidance- Detection Recovery. Memory Management-Swapping - Segmentation – Paging – Page replacement algorithms. Storage Management-RAID- Disk structure, Disk scheduling and implementation File System Interface- Protection in Operating Systems-Directory implementation – allocation methods-Protection-Access Matrix.",
+                            "textbooks": "1. Abraham Silberschatz, Peter B Galvin, Greg Gagne, Operating System Concepts, 9/e, Wiley India, 2015.",
+                            "references": "6. Andrew S Tanenbaum, “Modern Operating Systems”, 4th Edition, Prentice Hall, 2015. 7. William Stallings, “Operating systems”, 6th Edition, Pearson, Global Edition, 2015. 8. Garry Nutt, Nabendu Chaki, Sarmistha Neogy, “Operating Systems”, 3rd Edition, Pearson Education,2016. 9. D.M. Dhamdhere, “Operating Systems”, 2nd Edition, Tata McGraw Hill, 2011. 10. Sibsankar Haldar, Alex A Aravind, “Operating Systems”, Pearson Education",
+                            "course_plan": "Module Contents No. of hours I Introduction: Functions of an operating system. Single processor, 11 multiprocessor and clustered systems – overview. Kernel Data Structures Operating System Interfaces and implementation - User Interfaces, System Calls – examples. Operating System implementation - approaches. Operating System Structure – Monolithic, Layered, Micro- kernel, Modular. System Boot process. II Process Management: Process Concept – Processes-States – Process 12 Control Block – Threads. Scheduling – Queues – Schedulers – Context Switching. Process Creation and Termination. CPU Scheduling – Scheduling Criteria – Scheduling Algorithms & implementation (P). Inter Process Communication: Shared Memory, Message Passing, Pipes III Process Synchronization: Critical Section - Peterson's solution. 13 Synchronization – Locks, Semaphores, Monitors, Classical Problems and its implementation – Producer Consumer, Dining Philosophers and Readers-Writers Problems (P). Deadlocks – Conditions, Modeling using graphs. Handling – Prevention – Avoidance – Banker’s Algorithm and its implementation (P) – Detection- Recovery. IV Memory Management: Main Memory – Swapping - fixed partitions - 12 variable partitions - – Contiguous Memory allocation – Segmentation – Paging – Demand Paging-Page replacement algorithms. Storage Management: Overview of mass storage structure- disks and tapes. Disk structure – accessing disks. Disk scheduling and implementation (P). V File System Interface: File Concepts – Attributes – operations – types – 12 structure – access methods. Protection. File system implementation. Directory implementation – allocation methods. Free space Management. Protection– Goals, Principles, Domain. Access Matrix. Total Hours 60 MARK DISTRIBUTION Total Marks CIE ESE ESE Duration 150 50 100 3 hours CONTINOUS INTERNAL EVALUATION PATTERN Attendance : 10 marks Continuous Assessment Tests : 25 marks Continuous Assessment Assignment : 15 marks Course Year of Course Name Category L T P Credit Code Introduction Introduction To CS2U30C PCC 3 1 0 4 2022 Machine Learning COURSE OVERVIEW This course enables the learners to understand the advanced concepts and algorithms in machine learning. The course covers the standard and most popular supervised learning algorithms such as linear regression, logistic regression, decision trees, Bayesian learning and the Naive Bayes algorithm, basic clustering algorithms and classifier performance measures. This course helps the students to provide machine learning-based solutions to real-world problems. Prerequisite: ES0U10H Introduction to Python ii. COURSE OUTCOMES Course Description Level Outcomes Illustrate Machine Learning concepts and basics of supervised learning concepts. Apply CO1 Illustrate and evaluate supervised learning techniques Apply CO2 CO3 Solve real life problems using appropriate machine learning models Apply Illustrate basics of parameter estimation models and the working of SVM Apply CO4 classifier Demonstrate the use of dimensionality reduction techniques and unsupervised Apply CO5 learning concepts iii. SYLLABUS iv (a) TEXT BOOKS 1. Ethem Alpaydin, Introduction to Machine Learning, 2nd edition, MIT Press 2010. 2. Tom Mitchell, Machine Learning, McGraw-Hill, 1997. Reference Books 1. Christopher Bishop. Neural Networks for Pattern Recognition, Oxford University Press, 1995. 2. Kevin P. Murphy. Machine Learning: A Probabilistic Perspective, MIT Press 2012. 3. Trevor Hastie, Robert Tibshirani, Jerome Friedman, The Elements Of Statistical Learning, Second edition Springer 2007. 4. P. Langley, Elements of Machine Learning, Morgan Kaufmann, 1995. 5. Richert and Coelho, Building Machine Learning Systems with Python. 6. Mohammed J. Zaki and Wagner Meira, Data Mining and Analysis: Fundamental Concepts and Algorithms, Cambridge University Press, First South Asia edition, 2016. 7. Jake VanderPlas, Python Data Science Handbook, O'Reilly Media, 2016 8. Davy Cielen, Arno DB Meysman and Mohamed Ali.Introducing Data Science: Big Data, Machine Learning, and More, Using Python Tools, Dreamtech Press 2016. COURSE PLAN Modul Contents Hours e Introduction to Machine Learning, Machine learning paradigms-supervised, semi-supervised, unsupervised, reinforcement learning. Classfication, regression and clustering , Basics of parameter estimation - Maximum Likelihood Estimation(MLE) and Maximum a Posteriori estimation(MAP). Bias-Variance decomposition Intel AI tools  Jupyter* Lab for interactive coding I 12  NumPy, SciPy, and pandas for numerical computation  Matplotlib and seaborn for data visualization  Intel optimised library –modin Regression - Linear regression with one variable, Linear regression with multiple variables, solution using gradient descent algorithm and matrix method  Scikitlearn KNN Classifier and Regressor Logistic Regression Model Evaluation-Bias-Variance-tradeoff, Overfitting and under fitting, Cost function II 12 Regularization –L1 and L2 DT in regression Bayes theorem, Naive Bayes Classifier Decision tree algorithm ID3, CART Case Study: Develop a classifier for face detection. Classification Performance measures - Precision, Recall, Accuracy, F- Measure, Receiver Operating Characteristic Curve(ROC), Area Under Curve AUC. Bootstrapping, Cross Validation. III 12 Support Vector Machines - Introduction, Maximum Margin hyperplanes, Mathematics behind Maximum Margin Classification, soft margin SVM classifier, non-linear SVM, Kernels for learning non-linear functions, polynomial kernel, Radial Basis Function(RBF), Kernel Trick. Dimensionality reduction – Subset selection, Principal Component Analysis. Unsupervised Learning - Clustering Methods -Similarity measures, K-means IV 12 clustering Expectation-Maximization for soft clustering, Hierarchical Clustering Methods – Agglomerative and divisive, Density based clustering. Ensemble methods, Voting, Bagging, Boosting. Association Rule Mining- Apriori algorithm Perceptron, Perceptron Learning, Multilayer Feed forward Network, V 12 Activation Functions (Sigmoid, ReLU,Tanh), Back Propagation Algorithm, Illustrative Example for Back Propagation Total Hours 60 MARK DISTRIBUTION Total Marks CIE ESE ESE Duration 150 50 100 3 hours CONTINOUS INTERNAL EVALUATION PATTERN Attendance : 10 marks Continuous Assessment Tests : 25 marks Continuous Assessment Assignment : 15 marks Course Course Name Categor L T P Credi Year of Code y t Introduction CS2U30D Artificial Neural PCC 3 1 0 4 2022 Network COURSE OVERVIEW This course provides a comprehensive introduction to Artificial Neural Networks, a fundamental concept in the field of machine learning and artificial intelligence. Students will gain a deep understanding of the theoretical foundations, practical applications, and design principles of neural networks. COURSE OUTCOMES: After the completion of the course, the student will be able to: Course Description Level Outcomes CO 1 Explain the fundamentals of artificial neural networks and their Understan applications. d Apply supervised learning techniques, including Perceptron CO 2 learning and α-Least Mean Square Learning, to solve practical Apply problems Implement the Backpropagation algorithm for designing and CO 3 evaluating multi-layered network architectures. Apply Explain the architecture and learning techniques of various CO 4 Attractor Neural Networks Understan d Explain the principles of self-organizing feature maps and CO 5 their practical applications. Understan d SYLLABUS TEXTBOOKS 1. Satish Kumar, \"Neural Networks: A classroom approach\", Tata McGraw Hill, 2004. REFERENCE BOOKS: 1. Simon Haykin, \"Neural Networks: A comprehensive foundation\", Second Edition, Pearson Education Asia. 2. Robert J. Schalkoff, \"Artificial Neural Networks\", McGraw-Hill International Editions, 1997 3. B. Yegnanarayana. \"Artificial neural networks\"., PHI Learning Pvt. Ltd. COURSE PLAN Module Contents No. of hou rs Introduction: Biological Neuron-Artificial Neural Model - Types of I 1 activation functions - Architecture: Feedforward and Feedback, Convex 2 Sets, Convex Hull and Linear Separability, Non-Linear Separable Problem. XOR Problem, Multilayer Networks. Supervised Learning I: Learning Algorithms, Error correction and II 1 Gradient Descent Rules, Learning objective of TLNS, Perceptron 2 Learning Algorithm, Perceptron Convergence Theorem. Perceptron learning and Non-Separable sets, α-Least Mean Square Learning, MSE Error surface, Steepest Descent Search, μ-LMS approximate to gradient descent, Application of LMS to Noise Cancellation. Supervised Learning II: Multi-layered Network Architecture, III 1 Backpropagation Learning Algorithm, Practical consideration of BP 2 algorithm, Applications of Feedforward Neural Networks. IV 1 Attractor Neural Networks: Associative Learning Attractor Associative 2 Memory, Linear Associative memory, Hopfield Network, application of Hopfield Network, Brain State in a Box Neural Network, Simulated Annealing, Boltzmann Machine, Bidirectional Associative Memory. V 1 Self-organization Feature Map: Maximal Eigenvector Filtering, 2 Extracting Principal Components, Generalized Learning Laws, Vector Quantization, Self- organization Feature Maps, Application of SOM, Growing Neural Gas. 6 Total Hours 0 MARK DISTRIBUTION Total Marks CIE ESE ESE Duration 150 50 100 3 hours CONTINOUS INTERNAL EVALUATION PATTERN Attendance : 10 marks Continuous Assessment Tests : 25 marks Continuous Assessment Assignment : 15 marks Year of Catego ry L T P Cred it Introduction NC0U30A DISASTER MANAGEMENT MNC 2 0 0 Nil 2022"
+                        }
+                    }
+                },
+                {
+                    "CS2U30D": {
+                        "summary": {
+                            "Slot": "E",
+                            "Category Code": "PCC",
+                            "Course Number": "CS2U30D",
+                            "Courses": "Artificial Neural Network",
+                            "L-T-P": "3-1-0",
+                            "Hours": "4",
+                            "Credit": "4"
+                        },
+                        "details": "Not Found"
+                    }
+                },
+                {
+                    "NC0U30A": {
+                        "summary": {
+                            "Slot": "F",
+                            "Category Code": "MNC",
+                            "Course Number": "NC0U30A",
+                            "Courses": "Disaster Management",
+                            "L-T-P": "2-0-0",
+                            "Hours": "2",
+                            "Credit": "---"
+                        },
+                        "details": "Not Found"
+                    }
+                },
+                {
+                    "CS2U38A": {
+                        "summary": {
+                            "Slot": "S",
+                            "Category Code": "PCC",
+                            "Course Number": "CS2U38A",
+                            "Courses": "Operating Systems and Networking",
+                            "L-T-P": "0-0-4",
+                            "Hours": "4",
+                            "Credit": "2"
+                        },
+                        "details": {
+                            "course_name": "Name Not Found in Header",
+                            "overview": "The goal of this course is to expose the students to the fundamental concepts of hazards and disaster management. The course details the various phases of disaster risk management and the measures to reduce disaster risks.",
+                            "outcomes": "After the completion of the course, the student will be able to: Course Description Level Outcomes CO 1 Explain the fundamental concepts and terminology related to Understand disaster management cycle CO 2 Explain hazard and vulnerability types and Understand disaster risk assessment CO 3 Describe the process of risk assessment and Understand appropriate methodologies to assess risk CO 4 Explain the core elements and phases of disaster risk Apply management and measures to reduce disaster risks across sector and community CO 5 Discuss the factors that determine the nature of disaster Understand response and the various disaster response actions CO 6 Explain the legislations and best practices for disaster Understand management and risk reduction at national and international level",
+                            "syllabus": "Introduction- Systems of Earth, Key concepts and terminology in disaster risk reduction and management Hazard types, Vulnerability types and their assessment, Disaster risk assessment Disaster risk management- Phases of disaster risk management, Measures for disaster risk reduction- prevention, mitigation, preparedness, Disaster response, Relief Participatory stakeholder engagement, Disaster communication, Capacity building Common disaster types in India, Legislations in India on Disaster Management, National Disaster Management Policy, Institutional arrangements for disaster management in India, The Sendai Framework for Disaster risk reduction.",
+                            "textbooks": "Not Found",
+                            "references": "Not Found",
+                            "course_plan": "No. of Module Contents hours I Introduction about various systems of earth, Lithosphere- 6 composition, rocks, soils; Atmosphere- layers, ozone layer, greenhouse effect. Weather, cyclones, atmospheric circulations, Indian monsoon; Hydrosphere- oceans, inland water bodies; Biosphere Definition and meaning of key terms in Disaster risk reduction and Management – disaster, hazard, exposure, vulnerability, risk, risk assessment, risk mapping, capacity, resilience, disaster risk reduction, disaster risk management, early warning systems, disaster preparedness, disaster prevention, disaster mitigation, disaster response, damage assessment, crisis counselling, needs assessment II Various hazard types, hazard mapping; Different types of 6 vulnerability types and their assessment- Physical, social, economic and environmental vulnerability. Core elements of disaster risk assessment Components of a comprehensive disaster preparedness strategy approaches, procedures Different disaster response actions 112 III Introduction to disaster risk management, core elements of disaster 7 risk management Phases of disaster risk management, Measures for disaster risk reduction Measures for disaster prevention, mitigation, and preparedness Disaster response- objectives, requirements. Disaster response planning; types of responses Disaster relief, International relief organisations IV Participatory stakeholder engagement, Importance of disaster 5 communication, Disaster communication- methods, barriers, Crisis counselling Introduction to capacity building, Concept- Structural measures, Non- structural measures Introduction to Capacity assessment, Capacity assessment- Strengthening, Capacity for reducing risk Introduction- common disaster types in India V 6 Common disaster legislations in India on disaster management National disaster management policy, Institutional arrangements for disaster management in India. The Sendai Framework for Disaster risk reduction and targets-priorities for action, guiding principles Total hours 30 MARK DISTRIBUTION Total Marks CIE ESE ESE Duration 150 50 100 3 hours CONTINOUS INTERNAL EVALUATION PATTERN Attendance : 10 marks Continuous Assessment Tests : 25 marks Continuous Assessment Assignment : 15 marks 113 Course Course Name Category L T P Credit Year of Code Introduction CS2U38A Operating Systems and PCC 0 0 4 2 2022 Networking Lab PRE-REQUISITE: Nil"
+                        }
+                    }
+                },
+                {
+                    "CS2U38B": {
+                        "summary": {
+                            "Slot": "T",
+                            "Category Code": "PCC",
+                            "Course Number": "CS2U38B",
+                            "Courses": "Machine Learning Lab",
+                            "L-T-P": "0-0-4",
+                            "Hours": "4",
+                            "Credit": "2"
+                        },
+                        "details": {
+                            "course_name": "Name Not Found in Header",
+                            "overview": "The course aims to offer students a hands-on experience on Operating System concepts using a constructivist approach and problem-oriented learning. Operating systems are the fundamental part of every computing device to run any type of software.",
+                            "outcomes": "Not Found",
+                            "syllabus": "Not Found",
+                            "textbooks": "Not Found",
+                            "references": "4. Abraham Silberschatz, Peter B Galvin, Greg Gagne, Operating System Concepts, 9/e, Wiley India, 2015. 5. Andrew S Tanenbaum, “Modern Operating Systems”, 4th Edition, Prentice Hall, 2015. 6. William Stallings, “Operating systems”, 6th Edition, Pearson, Global Edition, 2015.",
+                            "course_plan": "SL No. Topics No. of hours 1 Implement programs for Inter Process Communication using 8 PIPE, Message Queue and Shared Memory. 114 2 Write a program to simulate the working of the dining 8 philosopher’s problem. 3 Implement the banker’s algorithm for deadlock avoidance. 8 4 Software simulation of Medium Access Control Protocols- 1) Go 9 Back N 2) Selective Repeat and 3) Sliding Window 5 Implementation of a subset of simple mail transfer protocol using 9 UDP 6 Implementation of a subset of a file transfer protocol using 9 TCP/IP 7 Implementation of Remote Procedure Call (RPC) 9 Total 60 MARK DISTRIBUTION Total Marks CIE Marks ESE Marks ESE Duration 150 75 75 3 hours CONTINOUS INTERNAL EVALUATION PATTERN Attendance : 15 marks Continuous Evaluation in Lab : 30 marks Continuous Assessment Test : 15 marks Viva-voce : 15 marks 115 Course Course Category L T P Credit Year of Code Name Introduction CS2U38B Machine Learning PCC 0 0 4 2 2022 Lab"
+                        }
+                    }
+                }
+            ]
+        },
+        "SEMESTER VI": {
+            "courses": [
+                {
+                    "CS2U40A": {
+                        "summary": {
+                            "Slot": "A",
+                            "Category Code": "PCC",
+                            "Course Number": "CS2U40A",
+                            "Courses": "Foundations of Deep Learning",
+                            "L-T-P": "2-1-0",
+                            "Hours": "3",
+                            "Credit": "3"
+                        },
+                        "details": "Not Found"
+                    }
+                },
+                {
+                    "CS2UXXX": {
+                        "summary": {
+                            "Slot": "B",
+                            "Category Code": "PEC",
+                            "Course Number": "CS2UXXX",
+                            "Courses": "Programme Elective II",
+                            "L-T-P": "2-1-0",
+                            "Hours": "3",
+                            "Credit": "3"
+                        },
+                        "details": "Not Found"
+                    }
+                },
+                {
+                    "CS0UXXX": {
+                        "summary": {
+                            "Slot": "C",
+                            "Category Code": "OEC",
+                            "Course Number": "CS0UXXX",
+                            "Courses": "Open Elective",
+                            "L-T-P": "2-1-0",
+                            "Hours": "3",
+                            "Credit": "3"
+                        },
+                        "details": "Not Found"
+                    }
+                },
+                {
+                    "NC0U40A": {
+                        "summary": {
+                            "Slot": "D",
+                            "Category Code": "MNC",
+                            "Course Number": "NC0U40A",
+                            "Courses": "Industrial Safety Engineering",
+                            "L-T-P": "2-1-0",
+                            "Hours": "3",
+                            "Credit": "---"
+                        },
+                        "details": "Not Found"
+                    }
+                },
+                {
+                    "CS2U48A": {
+                        "summary": {
+                            "Slot": "E",
+                            "Category Code": "PCC",
+                            "Course Number": "CS2U48A",
+                            "Courses": "Deep Learning Lab",
+                            "L-T-P": "0-0-3",
+                            "Hours": "3",
+                            "Credit": "2"
+                        },
+                        "details": "Not Found"
+                    }
+                },
+                {
+                    "CS2U49A": {
+                        "summary": {
+                            "Slot": "T",
+                            "Category Code": "PWS",
+                            "Course Number": "CS2U49A",
+                            "Courses": "Seminar",
+                            "L-T-P": "0-0-3",
+                            "Hours": "3",
+                            "Credit": "2"
+                        },
+                        "details": "Not Found"
+                    }
+                },
+                {
+                    "CS2U49B": {
+                        "summary": {
+                            "Slot": "U",
+                            "Category Code": "PWS",
+                            "Course Number": "CS2U49B",
+                            "Courses": "Project Phase I",
+                            "L-T-P": "0-0-6",
+                            "Hours": "6",
+                            "Credit": "2"
+                        },
+                        "details": "Not Found"
+                    }
+                }
+            ]
+        },
+        "SEMESTER VII": {
+            "courses": [
+                {
+                    "CS2U40A": {
+                        "summary": {
+                            "Slot": "A",
+                            "Category Code": "PCC",
+                            "Course Number": "CS2U40A",
+                            "Courses": "Foundations of Deep Learning",
+                            "L-T-P": "2-1-0",
+                            "Hours": "3",
+                            "Credit": "3"
+                        },
+                        "details": "Not Found"
+                    }
+                },
+                {
+                    "CS2UXXX": {
+                        "summary": {
+                            "Slot": "B",
+                            "Category Code": "PEC",
+                            "Course Number": "CS2UXXX",
+                            "Courses": "Programme Elective II",
+                            "L-T-P": "2-1-0",
+                            "Hours": "3",
+                            "Credit": "3"
+                        },
+                        "details": "Not Found"
+                    }
+                },
+                {
+                    "CS0UXXX": {
+                        "summary": {
+                            "Slot": "C",
+                            "Category Code": "OEC",
+                            "Course Number": "CS0UXXX",
+                            "Courses": "Open Elective",
+                            "L-T-P": "2-1-0",
+                            "Hours": "3",
+                            "Credit": "3"
+                        },
+                        "details": "Not Found"
+                    }
+                },
+                {
+                    "NC0U40A": {
+                        "summary": {
+                            "Slot": "D",
+                            "Category Code": "MNC",
+                            "Course Number": "NC0U40A",
+                            "Courses": "Industrial Safety Engineering",
+                            "L-T-P": "2-1-0",
+                            "Hours": "3",
+                            "Credit": "---"
+                        },
+                        "details": "Not Found"
+                    }
+                },
+                {
+                    "CS2U48A": {
+                        "summary": {
+                            "Slot": "E",
+                            "Category Code": "PCC",
+                            "Course Number": "CS2U48A",
+                            "Courses": "Deep Learning Lab",
+                            "L-T-P": "0-0-3",
+                            "Hours": "3",
+                            "Credit": "2"
+                        },
+                        "details": "Not Found"
+                    }
+                },
+                {
+                    "CS2U49A": {
+                        "summary": {
+                            "Slot": "T",
+                            "Category Code": "PWS",
+                            "Course Number": "CS2U49A",
+                            "Courses": "Seminar",
+                            "L-T-P": "0-0-3",
+                            "Hours": "3",
+                            "Credit": "2"
+                        },
+                        "details": "Not Found"
+                    }
+                },
+                {
+                    "CS2U49B": {
+                        "summary": {
+                            "Slot": "U",
+                            "Category Code": "PWS",
+                            "Course Number": "CS2U49B",
+                            "Courses": "Project Phase I",
+                            "L-T-P": "0-0-6",
+                            "Hours": "6",
+                            "Credit": "2"
+                        },
+                        "details": "Not Found"
+                    }
+                }
+            ]
+        },
+        "SEMESTER VIII": {
+            "courses": [
+                {
+                    "CS2U40B": {
+                        "summary": {
+                            "Slot": "A",
+                            "Category Code": "PCC",
+                            "Course Number": "CS2U40B",
+                            "Courses": "Robotic Process Automation",
+                            "L-T-P": "2-1-0",
+                            "Hours": "3",
+                            "Credit": "3"
+                        },
+                        "details": "Not Found"
+                    }
+                },
+                {
+                    "CS2UXXX": {
+                        "summary": {
+                            "Slot": "B",
+                            "Category Code": "PEC",
+                            "Course Number": "CS2UXXX",
+                            "Courses": "Programme Elective III",
+                            "L-T-P": "2-1-0",
+                            "Hours": "3",
+                            "Credit": "3"
+                        },
+                        "details": "Not Found"
+                    }
+                },
+                {
+                    "CS2UXXX": {
+                        "summary": {
+                            "Slot": "C",
+                            "Category Code": "PEC",
+                            "Course Number": "CS2UXXX",
+                            "Courses": "Programme Elective IV",
+                            "L-T-P": "2-1-0",
+                            "Hours": "3",
+                            "Credit": "3"
+                        },
+                        "details": "Not Found"
+                    }
+                },
+                {
+                    "CS2UXXX": {
+                        "summary": {
+                            "Slot": "D",
+                            "Category Code": "PEC",
+                            "Course Number": "CS2UXXX",
+                            "Courses": "Programme Elective V",
+                            "L-T-P": "2-1-0",
+                            "Hours": "3",
+                            "Credit": "3"
+                        },
+                        "details": "Not Found"
+                    }
+                },
+                {
+                    "CS2U40C": {
+                        "summary": {
+                            "Slot": "T",
+                            "Category Code": "PCC",
+                            "Course Number": "CS2U40C",
+                            "Courses": "Comprehensive Course Viva",
+                            "L-T-P": "1-0-0",
+                            "Hours": "1",
+                            "Credit": "1"
+                        },
+                        "details": "Not Found"
+                    }
+                }
+            ]
+        }
+    }
 }
