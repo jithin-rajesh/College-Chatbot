@@ -9,6 +9,7 @@ This project parses a syllabus PDF, and then uses the Gemini API to answer user 
 - Python 3.x
 - pip
 - Gemini API Key
+- For the preprocessing file use pdfplumber and json
 
 ### Installation
 
